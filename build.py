@@ -63,7 +63,8 @@ for pre in FEATURED_ORDER:
     st = p.get("status") or (f"{p['journal'].split(',')[0]}" if p.get("journal") else "")
     feat += f'<li>{title_link(p)}{with_(p)}{" · " + st if st else ""}</li>'
 
-index = f"""<p class="lede"><strong>Fiona Burlig</strong> is an associate professor at the Harris School of Public Policy at the University of Chicago.</p>
+index = f"""<img class="headshot" src="/headshot.jpg" alt="Fiona Burlig">
+<p class="lede"><strong>Fiona Burlig</strong> is an associate professor at the Harris School of Public Policy at the University of Chicago.</p>
 
 <h2>research</h2>
 <p>I'm an environmental and energy economist. I study how households, firms, and governments respond to environmental change and environmental policy, with a particular focus on energy, water, and climate adaptation in low- and middle-income countries.</p>

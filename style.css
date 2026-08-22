@@ -25,3 +25,5 @@ ul.papers li { margin-bottom: 1.25rem; }
 .links a { margin-right: .6rem; }
 .more { margin-top: .75rem; }
 .inline a + a::before { content: " · "; color: var(--muted); }
+.headshot { float: right; width: 7rem; height: 7rem; object-fit: cover; object-position: top; border-radius: 50%; margin: -.3rem 0 1rem 1.5rem; }
+h2:first-of-type { clear: both; }
