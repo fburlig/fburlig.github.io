@@ -24,7 +24,7 @@ I am **Fiona Burlig**, an assistant professor at the Harris School of Public Pol
 
 ::: {.column width="39%" .headshot}
 
-![Fiona Burlig](headshot.jpg){fig-alt="Fiona Burlig"}
+![](headshot.jpg){fig-alt="Fiona Burlig"}
 
 :::
 
