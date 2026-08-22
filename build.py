@@ -50,8 +50,8 @@ for pre in FEATURED_ORDER:
     t = f'[{p["title"]}]({p["pdf"]})' if p.get("pdf") else p["title"]
     bits = [t] + ([authors(p)] if p.get("authors") else []) + ([st] if st else [])
     fn |= bool(p.get("note"))
-    lines.append("↳ " + " · ".join(bits))
-s = "<br>\n".join(lines) + "\n"
+    lines.append('<div class="feat">↳ ' + " · ".join(bits) + "</div>")
+s = "\n".join(lines) + "\n"
 if fn: s += '\n<p class="meta footnote">† randomized author order</p>\n'
 open("_featured.md", "w").write(s)
 print("built research.qmd, _featured.md")
