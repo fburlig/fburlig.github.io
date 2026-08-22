@@ -16,23 +16,21 @@ def title_link(p):
 
 def links(p):
     if not p.get("links"): return ""
-    return '<div class="links">' + " · ".join(f'<a href="{u}">{k}</a>' for k, u in p["links"].items()) + "</div>"
+    return '<div class="links">' + " ".join(f'[<a href="{u}">{k}</a>]' for k, u in p["links"].items()) + "</div>"
 
 def entry(p, tail):
     auth = f"with {p['authors']}" if p.get("authors") else ""
     meta = " · ".join(x for x in [auth, tail] if x)
-    return f'{title_link(p)}<br>\n<span class="meta">{meta}</span>\n{links(p)}\n'
+    return f'<div class="paper">\n<span class="ptitle">{title_link(p)}</span><br>\n<span class="meta">{meta}</span>\n{links(p)}\n</div>\n'
 
 # ---------- research.qmd ----------
-out = ['---\ntitle: "research"\ntoc: false\n---\n',
-       '<span class="meta">Working papers, publications, and work in progress. NBER versions, appendices, replication packages, and coverage are linked under each paper.</span>\n',
-       "## working papers\n"]
+out = ['---\ntitle: "research"\ntoc: false\n---\n', "## publications\n"]
+for p in D["publications"]:
+    out.append(entry(p, f"{p['journal']} · {p['year']}"))
+out.append("## working papers\n")
 for p in D["working_papers"]:
     tail = p["date"] + (f"<br>{p['status']}" if p.get("status") else "")
     out.append(entry(p, tail))
-out.append("## publications\n")
-for p in D["publications"]:
-    out.append(entry(p, f"{p['journal']} · {p['year']}"))
 out.append("## work in progress\n")
 for p in D["work_in_progress"]:
     out.append(entry(p, ""))

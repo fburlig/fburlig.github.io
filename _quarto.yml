@@ -8,7 +8,7 @@ project:
 
 website:
   search: false
-  title: "Fiona Burlig"
+  title: "fiona burlig"
   site-url: https://fionaburlig.com
   navbar:
     left:
@@ -20,6 +20,8 @@ website:
         text: teaching
       - href: cv.pdf
         text: cv
+      - href: contact.qmd
+        text: contact
     right:
       - icon: github
         href: https://github.com/fburlig
@@ -33,3 +35,4 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    anchor-sections: false
