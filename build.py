@@ -31,7 +31,7 @@ out.append("## working papers\n")
 for p in D["working_papers"]:
     tail = p["date"] + (f"<br>{p['status']}" if p.get("status") else "")
     out.append(entry(p, tail))
-out.append("## work in progress\n")
+out.append("## selected work in progress\n")
 for p in D["work_in_progress"]:
     out.append(entry(p, ""))
 open("research.qmd", "w").write("\n".join(out))

@@ -36,3 +36,4 @@ format:
     css: styles.css
     toc: false
     anchor-sections: false
+    include-after-body: _pdf-newtab.html

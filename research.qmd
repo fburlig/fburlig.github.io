@@ -91,7 +91,7 @@ toc: false
 <div class="links">[<a href="https://www.socialscienceregistry.org/trials/8742">AEA RCT registry</a>]</div>
 </div>
 
-## work in progress
+## selected work in progress
 
 <div class="paper">
 <span class="ptitle">Incentives for climate adaptation: Experimental evidence from Odisha</span><br>

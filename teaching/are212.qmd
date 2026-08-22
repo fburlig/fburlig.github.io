@@ -1,7 +1,9 @@
 ---
-title: "ARE 212: Multiple equation estimation"
+title: "Graduate econometrics notes"
 toc: false
 ---
+
+<span class="meta">ARE 212 · UC Berkeley · Spring 2016 · archived teaching resource</span>
 
 <p>I served as the GSI for <a href="http://www.auffhammer.com/">Max Auffhammer</a>'s first-year PhD econometrics course, ARE 212, in Spring 2016. I built these notes off of material from <a href="https://github.com/danhammer/ARE212">Dan Hammer</a>, <a href="https://github.com/pbaylis/ARE212/">Patrick Baylis</a>, and <a href="https://github.com/kendonB/ARE212">Kenny Bell</a>. I've created some sections from scratch and expanded others, so there are likely mistakes remaining (caveat econometricus). If you find one, let me know!</p>
 
