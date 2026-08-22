@@ -12,7 +12,10 @@ FEATURED_ORDER = [  # homepage order
 ]
 
 def page(title, here, body):
-    nav = "" if here == "home" else '<a href="/">← fiona burlig</a>'
+    nav = "".join(
+        f'<a href="{h}"{" class=here" if k == here else ""}>{k}</a>'
+        for k, h in [("home", "/"), ("research", "/research"), ("teaching", "/teaching"), ("cv", "/cv.pdf")]
+    )
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -64,7 +67,7 @@ for pre in FEATURED_ORDER:
     feat += f'<li>{title_link(p)}{with_(p)}{" · " + st if st else ""}</li>'
 
 index = f"""<img class="headshot" src="/headshot.jpg" alt="Fiona Burlig">
-<p class="lede"><strong>Fiona Burlig</strong> is an associate professor at the Harris School of Public Policy at the University of Chicago.</p>
+<p class="lede"><strong>Fiona Burlig</strong> is an assistant professor at the Harris School of Public Policy at the University of Chicago, an NBER Faculty Research Fellow (EEE and DEV), an affiliate of J-PAL, BREAD, and the IGC, and Deputy Faculty Director of EPIC-India and the Odisha Data, Policy, and Innovation Centre. I am an applied microeconomist with research interests in and at the intersection of energy, environmental, and resource economics and development economics. Prior to joining Harris, I was a postdoc in the Department of Economics at the University of Chicago. I hold a PhD in agricultural and resource economics from the University of California, Berkeley, and a BA in economics, political science, and German from Williams College.</p>
 
 <h2>research</h2>
 <p>I'm an environmental and energy economist. I study how households, firms, and governments respond to environmental change and environmental policy, with a particular focus on energy, water, and climate adaptation in low- and middle-income countries.</p>
@@ -76,10 +79,6 @@ index = f"""<img class="headshot" src="/headshot.jpg" alt="Fiona Burlig">
 <ul class="arrow">
 <li><a href="/teaching">Program evaluation</a> · PPHA 34600, Harris School, every spring</li>
 </ul>
-
-<h2>me</h2>
-<p>Before Chicago I was a postdoc in the economics department here, and before that I did a PhD in agricultural and resource economics at Berkeley and a BA at Williams. I'm a faculty research fellow at NBER, an affiliate of J-PAL, BREAD, and the IGC, and deputy faculty director of EPIC-India and the Odisha Data, Policy, and Innovation Centre.</p>
-<!-- add one sentence of non-work personality here if you like -->
 
 <h2>more</h2>
 <p class="inline"><a href="/cv.pdf">CV</a><a href="https://scholar.google.com/citations?user=73OXPLsAAAAJ">Google Scholar</a><a href="https://github.com/fburlig">GitHub</a><a href="mailto:burlig@uchicago.edu">contact</a></p>
