@@ -26,9 +26,6 @@ website:
       - icon: mortarboard
         href: https://scholar.google.com/citations?user=73OXPLsAAAAJ
         aria-label: Google Scholar
-      - icon: github
-        href: https://github.com/fburlig
-        aria-label: GitHub
       - icon: envelope
         href: mailto:burlig@uchicago.edu
         aria-label: Email
