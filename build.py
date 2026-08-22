@@ -11,7 +11,7 @@ FEATURED_ORDER = [  # homepage order; must match title prefixes in papers.yaml
     "Blackouts",
     "Beliefs, forecasts, and investments",
 ]
-LINK_ORDER = ["journal", "nber", "appendix", "data/code", "rct registry", "media"]
+LINK_ORDER = ["journal", "nber", "appendix", "data/code", "rct registry", "coverage"]
 
 def authors(p):
     a = f"with {p['authors']}" if p.get("authors") else ""

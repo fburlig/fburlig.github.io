@@ -9,7 +9,7 @@ working_papers:
   featured: true
   links:
     nber: https://www.nber.org/papers/w28706
-    media: https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/
+    coverage: https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/
 - title: 'Blackouts: The role of India''s wholesale electricity market'
   authors: Akshaya Jha <a href="https://www.aeaweb.org/journals/policies/random-author-order" title="randomized author order">(r)</a> Louis Preonas
   pdf: s/20250815_JPB_Blackouts.pdf
@@ -17,7 +17,7 @@ working_papers:
   status: 'Conditionally accepted, <em>American Economic Journal: Economic Policy</em>'
   links:
     nber: https://www.nber.org/papers/w29610
-    media: https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india
+    coverage: https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india
   featured: true
 - title: 'Beliefs, forecasts, and investments: Experimental evidence from India'
   authors: Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai
@@ -27,7 +27,7 @@ working_papers:
   featured: true
   links:
     nber: https://www.nber.org/papers/w32173
-    media: https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh
+    coverage: https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh
     rct registry: https://www.socialscienceregistry.org/trials/8846
 - title: 'If you build it, they may not come: Willingness to participate in managed EV charging'
   authors: James Bushnell and David Rapson
@@ -35,7 +35,7 @@ working_papers:
   date: April 2026
   links:
     nber: https://www.nber.org/papers/w35086
-    media: https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/
+    coverage: https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/
     rct registry: https://www.socialscienceregistry.org/trials/14013
 - title: 'Insurance and the demand for adaptation: Theory and experimental evidence from West Bengal'
   authors: Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane
@@ -62,7 +62,7 @@ publications:
     journal: https://www.aeaweb.org/articles?id=10.1257/aer.20250278
     appendix: s/BJS_IndiaWater_Published_appx.pdf
     data/code: https://www.openicpsr.org/openicpsr/project/238281/version/V1/view
-    media: https://wakelet.com/wake/txezHB5_a-FkRS5HvwEuV
+    coverage: https://wakelet.com/wake/txezHB5_a-FkRS5HvwEuV
     rct registry: https://www.socialscienceregistry.org/trials/10545
 - title: Reforming energy subsidies
   authors: Anant Sudarshan
@@ -80,7 +80,7 @@ publications:
     journal: https://www.journals.uchicago.edu/doi/10.1086/730204
     appendix: s/RGGVY_appendix_20220216.pdf
     data/code: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FAPWICK
-    media: https://s.giannini.ucop.edu/uploads/giannini_public/17/e7/17e7e59c-40d7-4635-8ccf-7235e75975a2/v20n3_2.pdf
+    coverage: https://s.giannini.ucop.edu/uploads/giannini_public/17/e7/17e7e59c-40d7-4635-8ccf-7235e75975a2/v20n3_2.pdf
 - title: 'Social networks and technology adoption: Evidence from church mergers in the U.S. Midwest'
   authors: Andrew W. Stevens
   pdf: s/Burlig_Stevens_Churches_published.pdf
@@ -97,7 +97,7 @@ publications:
   links:
     journal: https://www.aeaweb.org/articles?id=10.1257/pandp.20211088
     data/code: https://www.openicpsr.org/openicpsr/project/139481/version/V1/view
-    media: https://www.forbes.com/sites/ucenergy/2021/02/16/electrifying-transportation-may-be-harder-than-we-think/
+    coverage: https://www.forbes.com/sites/ucenergy/2021/02/16/electrifying-transportation-may-be-harder-than-we-think/
 - title: Machine learning from schools about energy efficiency
   authors: Christopher Knittel, David Rapson, Mar Reguant, and Catherine Wolfram
   pdf: s/BKRRW_Published.pdf
@@ -107,7 +107,7 @@ publications:
     journal: https://www.journals.uchicago.edu/doi/10.1086/710606
     appendix: s/BKRRW_Schools_OnlineAppendix.pdf
     data/code: https://doi.org/10.7910/DVN/NDAYCR
-    media: https://www.forbes.com/sites/ucenergy/2017/09/27/cutting-energy-use-is-one-way-cash-strapped-schools-can-save-but-by-how-much/
+    coverage: https://www.forbes.com/sites/ucenergy/2017/09/27/cutting-energy-use-is-one-way-cash-strapped-schools-can-save-but-by-how-much/
 - title: Panel data and experimental design
   authors: Louis Preonas and Matt Woerman
   pdf: s/BPW_JDE.pdf
@@ -117,7 +117,7 @@ publications:
     journal: https://www.sciencedirect.com/science/article/abs/pii/S030438782030033X
     appendix: s/BPW_power_calcs_appendix.pdf
     data/code: https://data.mendeley.com/datasets/vbcp9rh8yj/1
-    media: http://blogs.worldbank.org/impactevaluations/weekly-links-january-6-power-calcs-dual-careers-substitutes-replication-and-more
+    coverage: http://blogs.worldbank.org/impactevaluations/weekly-links-january-6-power-calcs-dual-careers-substitutes-replication-and-more
 - title: 'Improving transparency in observational social science research: A pre-analysis plan approach'
   authors: ''
   pdf: s/Burlig_EconomicsLetters_2018.pdf
@@ -125,7 +125,7 @@ publications:
   journal: '<em>Economics Letters</em>, 168: 56–60'
   links:
     journal: https://www.sciencedirect.com/science/article/abs/pii/S0165176518301277
-    media: https://blogs.worldbank.org/impactevaluations/weekly-links-april-27-improving-water-conservation-acceptance-rates-drop-below-3-using-pre-analysis
+    coverage: https://blogs.worldbank.org/impactevaluations/weekly-links-april-27-improving-water-conservation-acceptance-rates-drop-below-3-using-pre-analysis
 work_in_progress:
 - title: 'Incentives for climate adaptation: Experimental evidence from Odisha'
   authors: Manzoor Dar, Jack Glaser, and Anant Sudarshan
