@@ -2,8 +2,8 @@
 @media (prefers-color-scheme: dark) {
   :root { --text:#e6e6e6; --muted:#9a9a9a; --link:#8ab4f8; --rule:#333; --bg:#141414; }
 }
-html { font-size: 17px; }
-body { font-family: "Source Serif 4", "Source Serif Pro", Georgia, "Times New Roman", serif;
+html { font-size: 18px; }
+body { font-family: "Source Sans 3", "Source Sans Pro", -apple-system, "Helvetica Neue", Arial, sans-serif;
   color: var(--text); background: var(--bg); line-height: 1.55; max-width: 42rem;
   margin: 3rem auto 5rem; padding: 0 1.25rem; }
 a { color: var(--link); text-decoration: none; }
