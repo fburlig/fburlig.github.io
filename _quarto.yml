@@ -33,7 +33,7 @@ website:
         href: mailto:burlig@uchicago.edu
         aria-label: Email
   page-footer:
-    left: "Keller Center 2069 · 1307 E 60th St · Chicago, IL 60637 · burlig@uchicago.edu"
+    center: "Keller Center 2069 · 1307 E 60th St · Chicago, IL 60637 · burlig@uchicago.edu"
 
 format:
   html:
