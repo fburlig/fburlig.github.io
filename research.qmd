@@ -107,6 +107,6 @@ toc: false
 
 <div class="paper">
 <span class="ptitle">Groundwater in a changing climate</span><br>
-<span class="meta">with R. Aaron Hrozencik, Louis Preonas, and Matt Woerman</span>
+<span class="meta">with R. Aaron Hrozencik <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=mw0-7IwOF3ft" title="randomized author order">(r)</a> Louis Preonas <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=mw0-7IwOF3ft" title="randomized author order">(r)</a> Matt Woerman</span>
 
 </div>
