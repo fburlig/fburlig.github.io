@@ -70,16 +70,9 @@ index = f"""<aside><img class="headshot" src="/headshot.jpg" alt="Fiona Burlig">
 <main>
 <p class="lede">I am <strong>Fiona Burlig</strong>, an assistant professor at the Harris School of Public Policy at the University of Chicago, an NBER Faculty Research Fellow (EEE and DEV), an affiliate of J-PAL, BREAD, and the IGC, and Deputy Faculty Director of EPIC-India and the Odisha Data, Policy, and Innovation Centre. I am an applied microeconomist with research interests in and at the intersection of energy, environmental, and resource economics and development economics. Prior to joining Harris, I was a postdoc in the Department of Economics at the University of Chicago. I hold a PhD in agricultural and resource economics from the University of California, Berkeley, and a BA in economics, political science, and German from Williams College.</p>
 
-<h2>research</h2>
-<p>I'm an environmental and energy economist. I study how households, firms, and governments respond to environmental change and environmental policy, with a particular focus on energy, water, and climate adaptation in low- and middle-income countries.</p>
-<p>Some current work…</p>
+<h2>recent research</h2>
 <ul class="arrow">{feat}</ul>
 <p class="more"><a href="/research">all research →</a></p>
-
-<h2>teaching</h2>
-<ul class="arrow">
-<li><a href="/teaching">Program evaluation</a> · PPHA 34600, Harris School, every spring</li>
-</ul>
 
 <h2>more</h2>
 <p class="inline"><a href="/cv.pdf">CV</a><a href="https://scholar.google.com/citations?user=73OXPLsAAAAJ">Google Scholar</a><a href="https://github.com/fburlig">GitHub</a><a href="mailto:burlig@uchicago.edu">contact</a></p>

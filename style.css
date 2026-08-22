@@ -4,7 +4,7 @@
 }
 html { font-size: 18px; }
 body { font-family: "Source Sans 3", "Source Sans Pro", -apple-system, "Helvetica Neue", Arial, sans-serif;
-  color: var(--text); background: var(--bg); line-height: 1.6; max-width: 46rem;
+  color: var(--text); background: var(--bg); line-height: 1.6; max-width: 49rem;
   margin: 6rem auto 8rem; padding: 0 1.5rem; }
 a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
@@ -26,10 +26,10 @@ ul.papers li { margin-bottom: 1.25rem; }
 .links a { margin-right: .6rem; }
 .more { margin-top: .75rem; }
 .inline a + a::before { content: " · "; color: var(--muted); }
-.page { display: grid; grid-template-columns: 9rem minmax(0, 34rem); column-gap: 2.5rem; }
+.page { display: grid; grid-template-columns: 14rem minmax(0, 32rem); column-gap: 2.5rem; }
 .page > *:not(aside):not(main) { grid-column: 2; }
 aside { grid-column: 1; }
 main { grid-column: 2; }
-.headshot { width: 9rem; display: block; }
+.headshot { width: 14rem; display: block; }
 @media (max-width: 40rem) { .page { grid-template-columns: 1fr; } .page > * { grid-column: 1 !important; } .headshot { width: 7rem; margin-bottom: 1.5rem; } }
-@media (min-width: 40.01rem) { nav { margin-left: 11.5rem; } }
+@media (min-width: 40.01rem) { nav { margin-left: 16.5rem; } }
