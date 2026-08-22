@@ -1,32 +1,39 @@
-@import url(https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,300;0,400;0,600;1,300&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,500;0,600;1,400&display=swap);
 
-/* Navbar: white, name on the left, quiet links */
-.navbar { background: #fff; }
+/* Navbar */
+.navbar { background: #fff; padding-top: 1rem; padding-bottom: .5rem; }
 .navbar .navbar-brand { color: #1a1a1a; font-weight: 600; }
-.navbar a { color: #8a8a8a; }
-.navbar a:hover { color: #008BBC; }
+.navbar a { color: #555; }
+.navbar a:hover { color: #00698f; }
 .navbar-nav .nav-link.active { color: #1a1a1a; }
+.navbar .bi { font-size: .95rem; }
 
-/* Fonts */
-body { font-family: 'Source Sans 3', sans-serif; font-weight: 300; font-size: 17px; color: #1a1a1a; line-height: 1.6; }
+/* Type */
+body { font-family: 'Source Sans 3', sans-serif; font-weight: 400; font-size: 17px; color: #1a1a1a; line-height: 1.6; }
 strong { font-weight: 600; }
 h1, h2, h3 { font-family: 'Source Sans 3', sans-serif; font-weight: 600; color: #1a1a1a; }
-h3 { font-size: 1.05rem; margin-top: 2rem; }
-h2 { font-size: 1.15rem; margin-top: 2.5rem; border: none; }
-a { color: #008BBC; text-decoration: none; }
+h3 { font-size: 1.05rem; margin-top: 2.25rem; }
+h2 { font-size: 1.1rem; margin-top: 2.75rem; margin-bottom: 1.25rem; border: none; }
+.quarto-title h1.title { font-size: 1.35rem; font-weight: 600; margin-bottom: 1.5rem; }
+a { color: #00698f; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-/* Narrow content column */
+/* Layout */
 #quarto-content main.content { max-width: 52rem; }
 .headshot img { width: 100%; max-width: 20rem; display: block; margin-left: auto; }
-.meta { color: #6b6b6b; font-size: .92rem; }
-.links { color: #6b6b6b; font-size: .85rem; }
-ul.papers, .qmd-teaching ul { list-style: none; padding-left: 0; }
-ul.papers li { margin-bottom: 1rem; }
+.headshot figcaption { display: none; }
 
+/* Papers */
 .paper { margin-bottom: 2.25rem; }
-.ptitle { font-size: 1.15rem; font-weight: 400; }
-.links { margin-top: .15rem; }
-h2 { margin-bottom: 1.25rem; }
+.ptitle { font-size: 1.1rem; font-weight: 500; }
+.meta { color: #555; font-size: .92rem; }
+.links { color: #555; font-size: .9rem; margin-top: .15rem; }
+.footnote { margin-top: 2rem; font-size: .85rem; }
+sup { font-size: .7em; }
 
-.quarto-title h1.title { font-size: 1.35rem; font-weight: 600; margin-bottom: 1.5rem; }
+/* Archived course pages */
+.archive-note { color: #555; font-size: .92rem; margin-bottom: 1.75rem; }
+ul.papers { list-style: none; padding-left: 0; }
+
+/* Footer */
+.nav-footer { color: #555; font-size: .85rem; }

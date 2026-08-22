@@ -1,14 +1,4 @@
 ---
-title: "contact"
-toc: false
+title: ""
 ---
-
-**email**<br>
-[burlig@uchicago.edu](mailto:burlig@uchicago.edu)
-
-**in person**<br>
-Keller Center #2069<br>
-1307 E 60th St<br>
-Chicago, IL 60637
-
-Office hours: email me for an appointment.
+<meta http-equiv="refresh" content="0; url=/">

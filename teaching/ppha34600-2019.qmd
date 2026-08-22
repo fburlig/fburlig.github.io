@@ -3,6 +3,8 @@ title: "PPHA 34600: Program evaluation (2019)"
 toc: false
 ---
 
+<p class="archive-note">Archived course materials · Spring 2019 · <a href="../teaching.html">← teaching</a></p>
+
 <p>I teach MPP-level program evaluation at the University of Chicago in the spring quarter. My syllabus and lecture slides can be found here. There are likely mistakes remaining (caveat econometricus). If you find one, let me know!</p>
 
 ## syllabus

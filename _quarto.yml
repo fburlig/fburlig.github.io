@@ -7,28 +7,33 @@ project:
     - headshot.jpg
 
 website:
-  search: false
   title: "fiona burlig"
+  description: "Fiona Burlig is an assistant professor at the Harris School of Public Policy, University of Chicago, working on energy, environmental, and development economics."
   site-url: https://fionaburlig.com
+  favicon: favicon.svg
+  search: false
+  open-graph: true
+  twitter-card: false
   navbar:
     left:
-      - href: index.qmd
-        text: home
       - href: research.qmd
         text: research
       - href: teaching.qmd
         text: teaching
       - href: cv.pdf
         text: cv
-      - href: contact.qmd
-        text: contact
     right:
-      - icon: github
-        href: https://github.com/fburlig
       - icon: mortarboard
         href: https://scholar.google.com/citations?user=73OXPLsAAAAJ
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/fburlig
+        aria-label: GitHub
       - icon: envelope
         href: mailto:burlig@uchicago.edu
+        aria-label: Email
+  page-footer:
+    left: "Keller Center 2069 · 1307 E 60th St · Chicago, IL 60637 · burlig@uchicago.edu"
 
 format:
   html:

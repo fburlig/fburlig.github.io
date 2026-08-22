@@ -1,50 +1,57 @@
 #!/usr/bin/env python3
-"""Render research.qmd and _featured.md from papers.yaml. Run: python3 build.py  (then commit; GitHub Actions renders the site)"""
+"""Render research.qmd and _featured.md from papers.yaml. Run: python3 build.py, commit, push (GitHub Actions renders)."""
 import yaml
 
 D = yaml.safe_load(open("papers.yaml"))
-FEATURED_ORDER = [  # homepage order
+FEATURED_ORDER = [  # homepage order; must match title prefixes in papers.yaml
     "Paying for power",
     "Insurance and the demand for adaptation",
     "The value of clean water",
     "Groundwater and crop choice",
+    "Blackouts",
     "Beliefs, forecasts, and investments",
 ]
+LINK_ORDER = ["journal", "nber", "appendix", "data/code", "media"]
 
-def title_link(p):
-    return f'[{p["title"]}]({p["pdf"]})' if p.get("pdf") else p["title"]
+def authors(p):
+    a = f"with {p['authors']}" if p.get("authors") else ""
+    if p.get("note"): a += "<sup>†</sup>"
+    return a
 
 def links(p):
-    if not p.get("links"): return ""
-    return '<div class="links">' + " ".join(f'[<a href="{u}">{k}</a>]' for k, u in p["links"].items()) + "</div>"
+    L = []
+    if p.get("pdf"): L.append(f'<a href="{p["pdf"]}">paper</a>')
+    for k in LINK_ORDER:
+        if k in (p.get("links") or {}): L.append(f'<a href="{p["links"][k]}">{k}</a>')
+    return f'<div class="links">{" · ".join(L)}</div>' if L else ""
 
 def entry(p, tail):
-    auth = f"with {p['authors']}" if p.get("authors") else ""
-    meta = " · ".join(x for x in [auth, tail] if x)
-    return f'<div class="paper">\n<span class="ptitle">{title_link(p)}</span><br>\n<span class="meta">{meta}</span>\n{links(p)}\n</div>\n'
+    meta = " · ".join(x for x in [authors(p), tail] if x)
+    return f'<div class="paper">\n<span class="ptitle">{p["title"]}</span><br>\n<span class="meta">{meta}</span>\n{links(p)}\n</div>\n'
 
-# ---------- research.qmd ----------
-out = ['---\ntitle: "research"\ntoc: false\n---\n', "## publications\n"]
+out = ['---\ntitle: "research"\ntoc: false\n---\n', "## working papers\n"]
+for p in D["working_papers"]:
+    out.append(entry(p, p["date"] + (f"<br>{p['status']}" if p.get("status") else "")))
+out.append("## publications\n")
 for p in D["publications"]:
     out.append(entry(p, f"{p['journal']} · {p['year']}"))
-out.append("## working papers\n")
-for p in D["working_papers"]:
-    tail = p["date"] + (f"<br>{p['status']}" if p.get("status") else "")
-    out.append(entry(p, tail))
 out.append("## selected work in progress\n")
 for p in D["work_in_progress"]:
     out.append(entry(p, ""))
+notes = [p["note"] for s in D for p in D[s] if p.get("note")]
+if notes: out.append('<p class="meta footnote">† ' + "; ".join(sorted(set(notes))) + "</p>\n")
 open("research.qmd", "w").write("\n".join(out))
 
-# ---------- _featured.md (homepage) ----------
 allp = D["working_papers"] + D["publications"]
-lines = []
+lines = []; fn = False
 for pre in FEATURED_ORDER:
     p = next(p for p in allp if p["title"].startswith(pre))
     st = p.get("status") or (p["journal"].split(",")[0] if p.get("journal") else "")
-    bits = [title_link(p)]
-    if p.get("authors"): bits.append(f"with {p['authors']}")
-    if st: bits.append(st)
+    t = f'[{p["title"]}]({p["pdf"]})' if p.get("pdf") else p["title"]
+    bits = [t] + ([authors(p)] if p.get("authors") else []) + ([st] if st else [])
+    fn |= bool(p.get("note"))
     lines.append("↳ " + " · ".join(bits))
-open("_featured.md", "w").write("<br>\n".join(lines) + "\n")
+s = "<br>\n".join(lines) + "\n"
+if fn: s += '\n<p class="meta footnote">† randomized author order</p>\n'
+open("_featured.md", "w").write(s)
 print("built research.qmd, _featured.md")

@@ -1,164 +1,134 @@
 # Single source of truth for research. build.py renders index.html and research.html from this.
 # Fields: title, authors (omit yourself), pdf, year, journal/status, links (label: url), featured (true/false), note
 working_papers:
-  - title: "Groundwater and crop choice in the short and long run"
-    authors: "Louis Preonas and Matt Woerman"
-    pdf: s/20260203_BPW_groundwater_with_appx.pdf
-    date: February 2026
-    status: "Revise and resubmit, <em>Review of Economic Studies</em>"
-    featured: true
-    links:
-      NBER WP: https://www.nber.org/papers/w28706
-      Forbes post: https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/
-      Barron's op-ed: https://www.barrons.com/articles/water-shortages-threaten-the-economy-and-our-food-supply-51633354333
-      Forecast Direct podcast: https://forecastdirect.podbean.com/e/groundwater-use-in-california-agriculture/
-  - title: "Blackouts: The role of India's wholesale electricity market"
-    authors: "Akshaya Jha <a href=\"https://www.aeaweb.org/journals/policies/random-author-order\" title=\"random author order\">(r)</a> Louis Preonas"
-    pdf: s/20250815_JPB_Blackouts.pdf
-    date: February 2026
-    status: "Conditionally accepted, <em>American Economic Journal: Economic Policy</em>"
-    links:
-      NBER WP: https://www.nber.org/papers/w29610
-      VoxDev: https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india
-      Ideas for India: https://www.ideasforindia.in/topics/governance/fixing-incentives-for-power-plants-to-reduce-outages.html
-      VoxEU: https://voxeu.org/article/reducing-electricity-blackouts-developing-countries
-  - title: "Beliefs, forecasts, and investments: Experimental evidence from India"
-    authors: "Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai"
-    pdf: s/20260403_BJKLS_forecasts.pdf
-    date: April 2026
-    status: "Revise and resubmit, <em>American Economic Journal: Applied Economics</em>"
-    featured: true
-    links:
-      NBER WP: https://www.nber.org/papers/w32173
-      AEA RCT registry: https://www.socialscienceregistry.org/trials/8846
-      Policy brief: https://epic.uchicago.edu/wp-content/uploads/2024/02/Monsoon-Forecasts_2.20.pdf
-      Media coverage: https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh
-  - title: "If you build it, they may not come: Willingness to participate in managed EV charging"
-    authors: "James Bushnell and David Rapson"
-    pdf: s/20260409_BBR_mangedcharging.pdf
-    date: April 2026
-    links:
-      NBER WP: https://www.nber.org/papers/w35086
-      AEA RCT registry: https://www.socialscienceregistry.org/trials/14013
-      Policy brief: https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/
-  - title: "Insurance and the demand for adaptation: Theory and experimental evidence from West Bengal"
-    authors: "Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane"
-    pdf: s/20260610_BDGKL_InsureAdapt.pdf
-    date: June 2026
-    featured: true
-    links:
-      AEA RCT registry: https://www.socialscienceregistry.org/trials/13781
-  - title: "Paying for power"
-    authors: "Anant Sudarshan"
-    pdf: s/20260616_BS_PayingForPower.pdf
-    date: June 2026
-    featured: true
-    links:
-      AEA RCT registry: https://www.socialscienceregistry.org/trials/8742
-
+- title: Groundwater and crop choice in the short and long run
+  authors: Louis Preonas and Matt Woerman
+  pdf: s/20260203_BPW_groundwater_with_appx.pdf
+  date: February 2026
+  status: Revise and resubmit, <em>Review of Economic Studies</em>
+  featured: true
+  links:
+    nber: https://www.nber.org/papers/w28706
+    media: https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/
+- title: 'Blackouts: The role of India''s wholesale electricity market'
+  authors: Akshaya Jha and Louis Preonas
+  pdf: s/20250815_JPB_Blackouts.pdf
+  date: February 2026
+  status: 'Conditionally accepted, <em>American Economic Journal: Economic Policy</em>'
+  links:
+    nber: https://www.nber.org/papers/w29610
+    media: https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india
+  note: randomized author order
+  featured: true
+- title: 'Beliefs, forecasts, and investments: Experimental evidence from India'
+  authors: Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai
+  pdf: s/20260403_BJKLS_forecasts.pdf
+  date: April 2026
+  status: 'Revise and resubmit, <em>American Economic Journal: Applied Economics</em>'
+  featured: true
+  links:
+    nber: https://www.nber.org/papers/w32173
+    media: https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh
+- title: 'If you build it, they may not come: Willingness to participate in managed EV charging'
+  authors: James Bushnell and David Rapson
+  pdf: s/20260409_BBR_mangedcharging.pdf
+  date: April 2026
+  links:
+    nber: https://www.nber.org/papers/w35086
+    media: https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/
+- title: 'Insurance and the demand for adaptation: Theory and experimental evidence from West Bengal'
+  authors: Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane
+  pdf: s/20260610_BDGKL_InsureAdapt.pdf
+  date: June 2026
+  featured: true
+  links: {}
+- title: Paying for power
+  authors: Anant Sudarshan
+  pdf: s/20260616_BS_PayingForPower.pdf
+  date: June 2026
+  featured: true
+  links: {}
 publications:
-  - title: "The value of clean water: Experimental evidence from rural India"
-    authors: "Amir Jina and Anant Sudarshan"
-    pdf: s/BJS_IndiaWater_Published_sansappx.pdf
-    year: 2026
-    journal: "<em>American Economic Review</em>, 116(3): 1148–1187"
-    featured: true
-    links:
-      Journal: https://www.aeaweb.org/articles?id=10.1257/aer.20250278
-      Appendix: s/BJS_IndiaWater_Published_appx.pdf
-      AEA RCT registry: https://www.socialscienceregistry.org/trials/10545
-      Replication package: https://www.openicpsr.org/openicpsr/project/238281/version/V1/view
-      RFF Resources Radio: https://www.resources.org/resources-radio/valuing-access-to-drinking-water-in-india-with-fiona-burlig/
-      VoxDev: https://voxdev.org/topic/health/clean-water-india-delivering-water-viable-solution
-      AEA podcast: https://www.aeaweb.org/research/clean-water-rural-india
-      Media coverage: https://wakelet.com/wake/txezHB5_a-FkRS5HvwEuV
-  - title: "Reforming energy subsidies"
-    authors: "Anant Sudarshan"
-    pdf: s/BS_handbook_published.pdf
-    year: 2026
-    journal: "In Rema Hanna and Benjamin A. Olken, eds., <em>The Handbook of Social Protection: Evidence and New Directions for Low- and Middle-Income Countries</em>, pp. 67–81. MIT Press"
-    links:
-      Publisher: https://direct.mit.edu/books/oa-edited-volume/6103/chapter/6001748/Reforming-Energy-Subsidies
-  - title: "Out of the darkness and into the light? Development effects of rural electrification"
-    authors: "Louis Preonas"
-    pdf: s/Burlig_Preonas_RGGVY_published.pdf
-    year: 2024
-    journal: "<em>Journal of Political Economy</em>, 132(9): 2937–2971"
-    links:
-      Journal: https://www.journals.uchicago.edu/doi/10.1086/730204
-      Appendix: s/RGGVY_appendix_20220216.pdf
-      Replication package: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FAPWICK
-      Policy brief: https://s.giannini.ucop.edu/uploads/giannini_public/17/e7/17e7e59c-40d7-4635-8ccf-7235e75975a2/v20n3_2.pdf
-      VoxDev: https://voxdev.org/topic/energy-environment/does-rural-electrification-cause-economic-development
-      Ideas for India: http://www.ideasforindia.in/topics/macroeconomics/does-rural-electrification-cause-economic-development.html
-      IEEE Spectrum: http://spectrum.ieee.org/energywise/energy/policy/does-electrification-cause-economic-growth
-      World Bank blog: http://blogs.worldbank.org/developmenttalk/rural-electrification-how-much-does-sub-saharan-africa-need-grid
-  - title: "Social networks and technology adoption: Evidence from church mergers in the U.S. Midwest"
-    authors: "Andrew W. Stevens"
-    pdf: s/Burlig_Stevens_Churches_published.pdf
-    year: 2024
-    journal: "<em>American Journal of Agricultural Economics</em>, 106(3): 1141–1166"
-    links:
-      Journal: https://onlinelibrary.wiley.com/doi/10.1111/ajae.12429
-      Appendix: s/Burlig_Stevens_SNTA_appx.pdf
-  - title: "Low energy: Estimating electric vehicle electricity use"
-    authors: "James Bushnell, David Rapson, and Catherine Wolfram"
-    pdf: s/BRRW_PnP_with_Appx.pdf
-    year: 2021
-    journal: "<em>AEA Papers and Proceedings</em>, 111: 430–435"
-    links:
-      Journal: https://www.aeaweb.org/articles?id=10.1257/pandp.20211088
-      Replication package: https://www.openicpsr.org/openicpsr/project/139481/version/V1/view
-      EPIC policy brief: https://epic.uchicago.edu/wp-content/uploads/2021/02/EV_Highlight.Final_.pdf
-      Forbes post: https://www.forbes.com/sites/ucenergy/2021/02/16/electrifying-transportation-may-be-harder-than-we-think/
-      EI@Haas blog: https://energyathaas.wordpress.com/2021/02/16/electric-vehicle-owners-drive-less-than-we-thought/
-      Axios: https://www.axios.com/electric-vehicle-gas-powered-cars-f1748194-89fc-40eb-964f-391362c237bb.html
-      Car and Driver: https://www.caranddriver.com/news/a35498794/ev-owners-low-mileage-study/
-      E&E News: https://www.eenews.net/energywire/stories/1063724557
-      The Hill: https://thehill.com/policy/energy-environment/539059-electric-vehicles-are-poised-to-aid-biden-in-climate-fight
-      Politico: https://www.politico.com/newsletters/morning-energy/2021/02/08/ed-markey-on-the-green-new-deal-biden-793222
-      Utility Dive: https://www.utilitydive.com/news/electric-vehicles-could-be-imperfect-substitutes-for-gas-powered-cars-ne/594665/
-  - title: "Machine learning from schools about energy efficiency"
-    authors: "Christopher Knittel, David Rapson, Mar Reguant, and Catherine Wolfram"
-    pdf: s/BKRRW_Published.pdf
-    year: 2020
-    journal: "<em>Journal of the Association of Environmental and Resource Economists</em>, 7(6): 1181–1217"
-    links:
-      Journal: https://www.journals.uchicago.edu/doi/10.1086/710606
-      Appendix: s/BKRRW_Schools_OnlineAppendix.pdf
-      Replication package: https://doi.org/10.7910/DVN/NDAYCR
-      EPIC news release: https://epic.uchicago.edu/news-events/news/new-study-finds-expected-savings-school-energy-efficiency-upgrade-outpace-actual
-      Forbes post: https://www.forbes.com/sites/ucenergy/2017/09/27/cutting-energy-use-is-one-way-cash-strapped-schools-can-save-but-by-how-much/
-      EI@Haas blog: https://energyathaas.wordpress.com/2017/10/02/energy-efficiency-in-schools-how-are-we-doing/
-      Wall Street Journal: https://blogs.wsj.com/experts/2017/11/13/why-government-energy-efficiency-programs-sound-great-but-often-dont-work/
-  - title: "Panel data and experimental design"
-    authors: "Louis Preonas and Matt Woerman"
-    pdf: s/BPW_JDE.pdf
-    year: 2020
-    journal: "<em>Journal of Development Economics</em>, 144: 102458"
-    links:
-      Journal: https://www.sciencedirect.com/science/article/abs/pii/S030438782030033X
-      Appendix: s/BPW_power_calcs_appendix.pdf
-      Replication package: https://data.mendeley.com/datasets/vbcp9rh8yj/1
-      Stata package: https://ideas.repec.org/c/boc/bocode/s458286.html
-      OSF project page: https://osf.io/cnpjk/
-      Development Impact: http://blogs.worldbank.org/impactevaluations/weekly-links-january-6-power-calcs-dual-careers-substitutes-replication-and-more
-  - title: "Improving transparency in observational social science research: A pre-analysis plan approach"
-    authors: ""
-    pdf: s/Burlig_EconomicsLetters_2018.pdf
-    year: 2018
-    journal: "<em>Economics Letters</em>, 168: 56–60"
-    links:
-      Journal: https://www.sciencedirect.com/science/article/abs/pii/S0165176518301277
-      OSF project page: https://osf.io/4ft3w
-      Development Impact: https://blogs.worldbank.org/impactevaluations/weekly-links-april-27-improving-water-conservation-acceptance-rates-drop-below-3-using-pre-analysis
-
+- title: 'The value of clean water: Experimental evidence from rural India'
+  authors: Amir Jina and Anant Sudarshan
+  pdf: s/BJS_IndiaWater_Published_sansappx.pdf
+  year: 2026
+  journal: '<em>American Economic Review</em>, 116(3): 1148–1187'
+  featured: true
+  links:
+    journal: https://www.aeaweb.org/articles?id=10.1257/aer.20250278
+    appendix: s/BJS_IndiaWater_Published_appx.pdf
+    data/code: https://www.openicpsr.org/openicpsr/project/238281/version/V1/view
+    media: https://wakelet.com/wake/txezHB5_a-FkRS5HvwEuV
+- title: Reforming energy subsidies
+  authors: Anant Sudarshan
+  pdf: s/BS_handbook_published.pdf
+  year: 2026
+  journal: 'In Rema Hanna and Benjamin A. Olken, eds., <em>The Handbook of Social Protection: Evidence and New Directions for Low- and Middle-Income Countries</em>, pp. 67–81. MIT Press'
+  links:
+    journal: https://direct.mit.edu/books/oa-edited-volume/6103/chapter/6001748/Reforming-Energy-Subsidies
+- title: Out of the darkness and into the light? Development effects of rural electrification
+  authors: Louis Preonas
+  pdf: s/Burlig_Preonas_RGGVY_published.pdf
+  year: 2024
+  journal: '<em>Journal of Political Economy</em>, 132(9): 2937–2971'
+  links:
+    journal: https://www.journals.uchicago.edu/doi/10.1086/730204
+    appendix: s/RGGVY_appendix_20220216.pdf
+    data/code: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FAPWICK
+    media: https://s.giannini.ucop.edu/uploads/giannini_public/17/e7/17e7e59c-40d7-4635-8ccf-7235e75975a2/v20n3_2.pdf
+- title: 'Social networks and technology adoption: Evidence from church mergers in the U.S. Midwest'
+  authors: Andrew W. Stevens
+  pdf: s/Burlig_Stevens_Churches_published.pdf
+  year: 2024
+  journal: '<em>American Journal of Agricultural Economics</em>, 106(3): 1141–1166'
+  links:
+    journal: https://onlinelibrary.wiley.com/doi/10.1111/ajae.12429
+    appendix: s/Burlig_Stevens_SNTA_appx.pdf
+- title: 'Low energy: Estimating electric vehicle electricity use'
+  authors: James Bushnell, David Rapson, and Catherine Wolfram
+  pdf: s/BRRW_PnP_with_Appx.pdf
+  year: 2021
+  journal: '<em>AEA Papers and Proceedings</em>, 111: 430–435'
+  links:
+    journal: https://www.aeaweb.org/articles?id=10.1257/pandp.20211088
+    data/code: https://www.openicpsr.org/openicpsr/project/139481/version/V1/view
+    media: https://www.forbes.com/sites/ucenergy/2021/02/16/electrifying-transportation-may-be-harder-than-we-think/
+- title: Machine learning from schools about energy efficiency
+  authors: Christopher Knittel, David Rapson, Mar Reguant, and Catherine Wolfram
+  pdf: s/BKRRW_Published.pdf
+  year: 2020
+  journal: '<em>Journal of the Association of Environmental and Resource Economists</em>, 7(6): 1181–1217'
+  links:
+    journal: https://www.journals.uchicago.edu/doi/10.1086/710606
+    appendix: s/BKRRW_Schools_OnlineAppendix.pdf
+    data/code: https://doi.org/10.7910/DVN/NDAYCR
+    media: https://www.forbes.com/sites/ucenergy/2017/09/27/cutting-energy-use-is-one-way-cash-strapped-schools-can-save-but-by-how-much/
+- title: Panel data and experimental design
+  authors: Louis Preonas and Matt Woerman
+  pdf: s/BPW_JDE.pdf
+  year: 2020
+  journal: '<em>Journal of Development Economics</em>, 144: 102458'
+  links:
+    journal: https://www.sciencedirect.com/science/article/abs/pii/S030438782030033X
+    appendix: s/BPW_power_calcs_appendix.pdf
+    data/code: https://data.mendeley.com/datasets/vbcp9rh8yj/1
+    media: http://blogs.worldbank.org/impactevaluations/weekly-links-january-6-power-calcs-dual-careers-substitutes-replication-and-more
+- title: 'Improving transparency in observational social science research: A pre-analysis plan approach'
+  authors: ''
+  pdf: s/Burlig_EconomicsLetters_2018.pdf
+  year: 2018
+  journal: '<em>Economics Letters</em>, 168: 56–60'
+  links:
+    journal: https://www.sciencedirect.com/science/article/abs/pii/S0165176518301277
+    media: https://blogs.worldbank.org/impactevaluations/weekly-links-april-27-improving-water-conservation-acceptance-rates-drop-below-3-using-pre-analysis
 work_in_progress:
-  - title: "Incentives for climate adaptation: Experimental evidence from Odisha"
-    authors: "Manzoor Dar, Jack Glaser, and Anant Sudarshan"
-  - title: "Forecasts at scale: General equilibrium impacts of climate adaptation"
-    authors: "Amir Jina, Erin Kelley, and Gregory Lane"
-    links:
-      AEA RCT registry: https://www.socialscienceregistry.org/trials/13590
-  - title: "Groundwater in a changing climate"
-    authors: "R. Aaron Hrozencik, Louis Preonas, and Matt Woerman"
+- title: 'Incentives for climate adaptation: Experimental evidence from Odisha'
+  authors: Manzoor Dar, Jack Glaser, and Anant Sudarshan
+  links: {}
+- title: 'Forecasts at scale: General equilibrium impacts of climate adaptation'
+  authors: Amir Jina, Erin Kelley, and Gregory Lane
+  links: {}
+- title: Groundwater in a changing climate
+  authors: R. Aaron Hrozencik, Louis Preonas, and Matt Woerman
+  links: {}

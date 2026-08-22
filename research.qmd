@@ -3,92 +3,92 @@ title: "research"
 toc: false
 ---
 
-## publications
-
-<div class="paper">
-<span class="ptitle">[The value of clean water: Experimental evidence from rural India](s/BJS_IndiaWater_Published_sansappx.pdf)</span><br>
-<span class="meta">with Amir Jina and Anant Sudarshan · <em>American Economic Review</em>, 116(3): 1148–1187 · 2026</span>
-<div class="links">[<a href="https://www.aeaweb.org/articles?id=10.1257/aer.20250278">Journal</a>] [<a href="s/BJS_IndiaWater_Published_appx.pdf">Appendix</a>] [<a href="https://www.socialscienceregistry.org/trials/10545">AEA RCT registry</a>] [<a href="https://www.openicpsr.org/openicpsr/project/238281/version/V1/view">Replication package</a>] [<a href="https://www.resources.org/resources-radio/valuing-access-to-drinking-water-in-india-with-fiona-burlig/">RFF Resources Radio</a>] [<a href="https://voxdev.org/topic/health/clean-water-india-delivering-water-viable-solution">VoxDev</a>] [<a href="https://www.aeaweb.org/research/clean-water-rural-india">AEA podcast</a>] [<a href="https://wakelet.com/wake/txezHB5_a-FkRS5HvwEuV">Media coverage</a>]</div>
-</div>
-
-<div class="paper">
-<span class="ptitle">[Reforming energy subsidies](s/BS_handbook_published.pdf)</span><br>
-<span class="meta">with Anant Sudarshan · In Rema Hanna and Benjamin A. Olken, eds., <em>The Handbook of Social Protection: Evidence and New Directions for Low- and Middle-Income Countries</em>, pp. 67–81. MIT Press · 2026</span>
-<div class="links">[<a href="https://direct.mit.edu/books/oa-edited-volume/6103/chapter/6001748/Reforming-Energy-Subsidies">Publisher</a>]</div>
-</div>
-
-<div class="paper">
-<span class="ptitle">[Out of the darkness and into the light? Development effects of rural electrification](s/Burlig_Preonas_RGGVY_published.pdf)</span><br>
-<span class="meta">with Louis Preonas · <em>Journal of Political Economy</em>, 132(9): 2937–2971 · 2024</span>
-<div class="links">[<a href="https://www.journals.uchicago.edu/doi/10.1086/730204">Journal</a>] [<a href="s/RGGVY_appendix_20220216.pdf">Appendix</a>] [<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FAPWICK">Replication package</a>] [<a href="https://s.giannini.ucop.edu/uploads/giannini_public/17/e7/17e7e59c-40d7-4635-8ccf-7235e75975a2/v20n3_2.pdf">Policy brief</a>] [<a href="https://voxdev.org/topic/energy-environment/does-rural-electrification-cause-economic-development">VoxDev</a>] [<a href="http://www.ideasforindia.in/topics/macroeconomics/does-rural-electrification-cause-economic-development.html">Ideas for India</a>] [<a href="http://spectrum.ieee.org/energywise/energy/policy/does-electrification-cause-economic-growth">IEEE Spectrum</a>] [<a href="http://blogs.worldbank.org/developmenttalk/rural-electrification-how-much-does-sub-saharan-africa-need-grid">World Bank blog</a>]</div>
-</div>
-
-<div class="paper">
-<span class="ptitle">[Social networks and technology adoption: Evidence from church mergers in the U.S. Midwest](s/Burlig_Stevens_Churches_published.pdf)</span><br>
-<span class="meta">with Andrew W. Stevens · <em>American Journal of Agricultural Economics</em>, 106(3): 1141–1166 · 2024</span>
-<div class="links">[<a href="https://onlinelibrary.wiley.com/doi/10.1111/ajae.12429">Journal</a>] [<a href="s/Burlig_Stevens_SNTA_appx.pdf">Appendix</a>]</div>
-</div>
-
-<div class="paper">
-<span class="ptitle">[Low energy: Estimating electric vehicle electricity use](s/BRRW_PnP_with_Appx.pdf)</span><br>
-<span class="meta">with James Bushnell, David Rapson, and Catherine Wolfram · <em>AEA Papers and Proceedings</em>, 111: 430–435 · 2021</span>
-<div class="links">[<a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20211088">Journal</a>] [<a href="https://www.openicpsr.org/openicpsr/project/139481/version/V1/view">Replication package</a>] [<a href="https://epic.uchicago.edu/wp-content/uploads/2021/02/EV_Highlight.Final_.pdf">EPIC policy brief</a>] [<a href="https://www.forbes.com/sites/ucenergy/2021/02/16/electrifying-transportation-may-be-harder-than-we-think/">Forbes post</a>] [<a href="https://energyathaas.wordpress.com/2021/02/16/electric-vehicle-owners-drive-less-than-we-thought/">EI@Haas blog</a>] [<a href="https://www.axios.com/electric-vehicle-gas-powered-cars-f1748194-89fc-40eb-964f-391362c237bb.html">Axios</a>] [<a href="https://www.caranddriver.com/news/a35498794/ev-owners-low-mileage-study/">Car and Driver</a>] [<a href="https://www.eenews.net/energywire/stories/1063724557">E&E News</a>] [<a href="https://thehill.com/policy/energy-environment/539059-electric-vehicles-are-poised-to-aid-biden-in-climate-fight">The Hill</a>] [<a href="https://www.politico.com/newsletters/morning-energy/2021/02/08/ed-markey-on-the-green-new-deal-biden-793222">Politico</a>] [<a href="https://www.utilitydive.com/news/electric-vehicles-could-be-imperfect-substitutes-for-gas-powered-cars-ne/594665/">Utility Dive</a>]</div>
-</div>
-
-<div class="paper">
-<span class="ptitle">[Machine learning from schools about energy efficiency](s/BKRRW_Published.pdf)</span><br>
-<span class="meta">with Christopher Knittel, David Rapson, Mar Reguant, and Catherine Wolfram · <em>Journal of the Association of Environmental and Resource Economists</em>, 7(6): 1181–1217 · 2020</span>
-<div class="links">[<a href="https://www.journals.uchicago.edu/doi/10.1086/710606">Journal</a>] [<a href="s/BKRRW_Schools_OnlineAppendix.pdf">Appendix</a>] [<a href="https://doi.org/10.7910/DVN/NDAYCR">Replication package</a>] [<a href="https://epic.uchicago.edu/news-events/news/new-study-finds-expected-savings-school-energy-efficiency-upgrade-outpace-actual">EPIC news release</a>] [<a href="https://www.forbes.com/sites/ucenergy/2017/09/27/cutting-energy-use-is-one-way-cash-strapped-schools-can-save-but-by-how-much/">Forbes post</a>] [<a href="https://energyathaas.wordpress.com/2017/10/02/energy-efficiency-in-schools-how-are-we-doing/">EI@Haas blog</a>] [<a href="https://blogs.wsj.com/experts/2017/11/13/why-government-energy-efficiency-programs-sound-great-but-often-dont-work/">Wall Street Journal</a>]</div>
-</div>
-
-<div class="paper">
-<span class="ptitle">[Panel data and experimental design](s/BPW_JDE.pdf)</span><br>
-<span class="meta">with Louis Preonas and Matt Woerman · <em>Journal of Development Economics</em>, 144: 102458 · 2020</span>
-<div class="links">[<a href="https://www.sciencedirect.com/science/article/abs/pii/S030438782030033X">Journal</a>] [<a href="s/BPW_power_calcs_appendix.pdf">Appendix</a>] [<a href="https://data.mendeley.com/datasets/vbcp9rh8yj/1">Replication package</a>] [<a href="https://ideas.repec.org/c/boc/bocode/s458286.html">Stata package</a>] [<a href="https://osf.io/cnpjk/">OSF project page</a>] [<a href="http://blogs.worldbank.org/impactevaluations/weekly-links-january-6-power-calcs-dual-careers-substitutes-replication-and-more">Development Impact</a>]</div>
-</div>
-
-<div class="paper">
-<span class="ptitle">[Improving transparency in observational social science research: A pre-analysis plan approach](s/Burlig_EconomicsLetters_2018.pdf)</span><br>
-<span class="meta"><em>Economics Letters</em>, 168: 56–60 · 2018</span>
-<div class="links">[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0165176518301277">Journal</a>] [<a href="https://osf.io/4ft3w">OSF project page</a>] [<a href="https://blogs.worldbank.org/impactevaluations/weekly-links-april-27-improving-water-conservation-acceptance-rates-drop-below-3-using-pre-analysis">Development Impact</a>]</div>
-</div>
-
 ## working papers
 
 <div class="paper">
-<span class="ptitle">[Groundwater and crop choice in the short and long run](s/20260203_BPW_groundwater_with_appx.pdf)</span><br>
+<span class="ptitle">Groundwater and crop choice in the short and long run</span><br>
 <span class="meta">with Louis Preonas and Matt Woerman · February 2026<br>Revise and resubmit, <em>Review of Economic Studies</em></span>
-<div class="links">[<a href="https://www.nber.org/papers/w28706">NBER WP</a>] [<a href="https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/">Forbes post</a>] [<a href="https://www.barrons.com/articles/water-shortages-threaten-the-economy-and-our-food-supply-51633354333">Barron's op-ed</a>] [<a href="https://forecastdirect.podbean.com/e/groundwater-use-in-california-agriculture/">Forecast Direct podcast</a>]</div>
+<div class="links"><a href="s/20260203_BPW_groundwater_with_appx.pdf">paper</a> · <a href="https://www.nber.org/papers/w28706">nber</a> · <a href="https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/">media</a></div>
 </div>
 
 <div class="paper">
-<span class="ptitle">[Blackouts: The role of India's wholesale electricity market](s/20250815_JPB_Blackouts.pdf)</span><br>
-<span class="meta">with Akshaya Jha <a href="https://www.aeaweb.org/journals/policies/random-author-order" title="random author order">(r)</a> Louis Preonas · February 2026<br>Conditionally accepted, <em>American Economic Journal: Economic Policy</em></span>
-<div class="links">[<a href="https://www.nber.org/papers/w29610">NBER WP</a>] [<a href="https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india">VoxDev</a>] [<a href="https://www.ideasforindia.in/topics/governance/fixing-incentives-for-power-plants-to-reduce-outages.html">Ideas for India</a>] [<a href="https://voxeu.org/article/reducing-electricity-blackouts-developing-countries">VoxEU</a>]</div>
+<span class="ptitle">Blackouts: The role of India's wholesale electricity market</span><br>
+<span class="meta">with Akshaya Jha and Louis Preonas<sup>†</sup> · February 2026<br>Conditionally accepted, <em>American Economic Journal: Economic Policy</em></span>
+<div class="links"><a href="s/20250815_JPB_Blackouts.pdf">paper</a> · <a href="https://www.nber.org/papers/w29610">nber</a> · <a href="https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india">media</a></div>
 </div>
 
 <div class="paper">
-<span class="ptitle">[Beliefs, forecasts, and investments: Experimental evidence from India](s/20260403_BJKLS_forecasts.pdf)</span><br>
+<span class="ptitle">Beliefs, forecasts, and investments: Experimental evidence from India</span><br>
 <span class="meta">with Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai · April 2026<br>Revise and resubmit, <em>American Economic Journal: Applied Economics</em></span>
-<div class="links">[<a href="https://www.nber.org/papers/w32173">NBER WP</a>] [<a href="https://www.socialscienceregistry.org/trials/8846">AEA RCT registry</a>] [<a href="https://epic.uchicago.edu/wp-content/uploads/2024/02/Monsoon-Forecasts_2.20.pdf">Policy brief</a>] [<a href="https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh">Media coverage</a>]</div>
+<div class="links"><a href="s/20260403_BJKLS_forecasts.pdf">paper</a> · <a href="https://www.nber.org/papers/w32173">nber</a> · <a href="https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh">media</a></div>
 </div>
 
 <div class="paper">
-<span class="ptitle">[If you build it, they may not come: Willingness to participate in managed EV charging](s/20260409_BBR_mangedcharging.pdf)</span><br>
+<span class="ptitle">If you build it, they may not come: Willingness to participate in managed EV charging</span><br>
 <span class="meta">with James Bushnell and David Rapson · April 2026</span>
-<div class="links">[<a href="https://www.nber.org/papers/w35086">NBER WP</a>] [<a href="https://www.socialscienceregistry.org/trials/14013">AEA RCT registry</a>] [<a href="https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/">Policy brief</a>]</div>
+<div class="links"><a href="s/20260409_BBR_mangedcharging.pdf">paper</a> · <a href="https://www.nber.org/papers/w35086">nber</a> · <a href="https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/">media</a></div>
 </div>
 
 <div class="paper">
-<span class="ptitle">[Insurance and the demand for adaptation: Theory and experimental evidence from West Bengal](s/20260610_BDGKL_InsureAdapt.pdf)</span><br>
+<span class="ptitle">Insurance and the demand for adaptation: Theory and experimental evidence from West Bengal</span><br>
 <span class="meta">with Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane · June 2026</span>
-<div class="links">[<a href="https://www.socialscienceregistry.org/trials/13781">AEA RCT registry</a>]</div>
+<div class="links"><a href="s/20260610_BDGKL_InsureAdapt.pdf">paper</a></div>
 </div>
 
 <div class="paper">
-<span class="ptitle">[Paying for power](s/20260616_BS_PayingForPower.pdf)</span><br>
+<span class="ptitle">Paying for power</span><br>
 <span class="meta">with Anant Sudarshan · June 2026</span>
-<div class="links">[<a href="https://www.socialscienceregistry.org/trials/8742">AEA RCT registry</a>]</div>
+<div class="links"><a href="s/20260616_BS_PayingForPower.pdf">paper</a></div>
+</div>
+
+## publications
+
+<div class="paper">
+<span class="ptitle">The value of clean water: Experimental evidence from rural India</span><br>
+<span class="meta">with Amir Jina and Anant Sudarshan · <em>American Economic Review</em>, 116(3): 1148–1187 · 2026</span>
+<div class="links"><a href="s/BJS_IndiaWater_Published_sansappx.pdf">paper</a> · <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20250278">journal</a> · <a href="s/BJS_IndiaWater_Published_appx.pdf">appendix</a> · <a href="https://www.openicpsr.org/openicpsr/project/238281/version/V1/view">data/code</a> · <a href="https://wakelet.com/wake/txezHB5_a-FkRS5HvwEuV">media</a></div>
+</div>
+
+<div class="paper">
+<span class="ptitle">Reforming energy subsidies</span><br>
+<span class="meta">with Anant Sudarshan · In Rema Hanna and Benjamin A. Olken, eds., <em>The Handbook of Social Protection: Evidence and New Directions for Low- and Middle-Income Countries</em>, pp. 67–81. MIT Press · 2026</span>
+<div class="links"><a href="s/BS_handbook_published.pdf">paper</a> · <a href="https://direct.mit.edu/books/oa-edited-volume/6103/chapter/6001748/Reforming-Energy-Subsidies">journal</a></div>
+</div>
+
+<div class="paper">
+<span class="ptitle">Out of the darkness and into the light? Development effects of rural electrification</span><br>
+<span class="meta">with Louis Preonas · <em>Journal of Political Economy</em>, 132(9): 2937–2971 · 2024</span>
+<div class="links"><a href="s/Burlig_Preonas_RGGVY_published.pdf">paper</a> · <a href="https://www.journals.uchicago.edu/doi/10.1086/730204">journal</a> · <a href="s/RGGVY_appendix_20220216.pdf">appendix</a> · <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FAPWICK">data/code</a> · <a href="https://s.giannini.ucop.edu/uploads/giannini_public/17/e7/17e7e59c-40d7-4635-8ccf-7235e75975a2/v20n3_2.pdf">media</a></div>
+</div>
+
+<div class="paper">
+<span class="ptitle">Social networks and technology adoption: Evidence from church mergers in the U.S. Midwest</span><br>
+<span class="meta">with Andrew W. Stevens · <em>American Journal of Agricultural Economics</em>, 106(3): 1141–1166 · 2024</span>
+<div class="links"><a href="s/Burlig_Stevens_Churches_published.pdf">paper</a> · <a href="https://onlinelibrary.wiley.com/doi/10.1111/ajae.12429">journal</a> · <a href="s/Burlig_Stevens_SNTA_appx.pdf">appendix</a></div>
+</div>
+
+<div class="paper">
+<span class="ptitle">Low energy: Estimating electric vehicle electricity use</span><br>
+<span class="meta">with James Bushnell, David Rapson, and Catherine Wolfram · <em>AEA Papers and Proceedings</em>, 111: 430–435 · 2021</span>
+<div class="links"><a href="s/BRRW_PnP_with_Appx.pdf">paper</a> · <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20211088">journal</a> · <a href="https://www.openicpsr.org/openicpsr/project/139481/version/V1/view">data/code</a> · <a href="https://www.forbes.com/sites/ucenergy/2021/02/16/electrifying-transportation-may-be-harder-than-we-think/">media</a></div>
+</div>
+
+<div class="paper">
+<span class="ptitle">Machine learning from schools about energy efficiency</span><br>
+<span class="meta">with Christopher Knittel, David Rapson, Mar Reguant, and Catherine Wolfram · <em>Journal of the Association of Environmental and Resource Economists</em>, 7(6): 1181–1217 · 2020</span>
+<div class="links"><a href="s/BKRRW_Published.pdf">paper</a> · <a href="https://www.journals.uchicago.edu/doi/10.1086/710606">journal</a> · <a href="s/BKRRW_Schools_OnlineAppendix.pdf">appendix</a> · <a href="https://doi.org/10.7910/DVN/NDAYCR">data/code</a> · <a href="https://www.forbes.com/sites/ucenergy/2017/09/27/cutting-energy-use-is-one-way-cash-strapped-schools-can-save-but-by-how-much/">media</a></div>
+</div>
+
+<div class="paper">
+<span class="ptitle">Panel data and experimental design</span><br>
+<span class="meta">with Louis Preonas and Matt Woerman · <em>Journal of Development Economics</em>, 144: 102458 · 2020</span>
+<div class="links"><a href="s/BPW_JDE.pdf">paper</a> · <a href="https://www.sciencedirect.com/science/article/abs/pii/S030438782030033X">journal</a> · <a href="s/BPW_power_calcs_appendix.pdf">appendix</a> · <a href="https://data.mendeley.com/datasets/vbcp9rh8yj/1">data/code</a> · <a href="http://blogs.worldbank.org/impactevaluations/weekly-links-january-6-power-calcs-dual-careers-substitutes-replication-and-more">media</a></div>
+</div>
+
+<div class="paper">
+<span class="ptitle">Improving transparency in observational social science research: A pre-analysis plan approach</span><br>
+<span class="meta"><em>Economics Letters</em>, 168: 56–60 · 2018</span>
+<div class="links"><a href="s/Burlig_EconomicsLetters_2018.pdf">paper</a> · <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165176518301277">journal</a> · <a href="https://blogs.worldbank.org/impactevaluations/weekly-links-april-27-improving-water-conservation-acceptance-rates-drop-below-3-using-pre-analysis">media</a></div>
 </div>
 
 ## selected work in progress
@@ -102,7 +102,7 @@ toc: false
 <div class="paper">
 <span class="ptitle">Forecasts at scale: General equilibrium impacts of climate adaptation</span><br>
 <span class="meta">with Amir Jina, Erin Kelley, and Gregory Lane</span>
-<div class="links">[<a href="https://www.socialscienceregistry.org/trials/13590">AEA RCT registry</a>]</div>
+
 </div>
 
 <div class="paper">
@@ -110,3 +110,5 @@ toc: false
 <span class="meta">with R. Aaron Hrozencik, Louis Preonas, and Matt Woerman</span>
 
 </div>
+
+<p class="meta footnote">† randomized author order</p>
