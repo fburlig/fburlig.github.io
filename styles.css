@@ -24,6 +24,7 @@ a:hover { text-decoration: underline; }
 .headshot figcaption { display: none; }
 
 /* Papers */
+.feat { margin-bottom: .35rem; }
 .paper { margin-bottom: 2.25rem; }
 .ptitle { font-size: 1.1rem; font-weight: 500; }
 .meta { color: #555; font-size: .92rem; }
@@ -45,4 +46,5 @@ ul.papers { list-style: none; padding-left: 0; }
   .columns .column.headshot { order: -1; }
   .headshot img { width: 9rem; height: 9rem; max-width: none; object-fit: cover; object-position: top; border-radius: 50%; margin: .5rem auto 1.75rem; }
   body { font-size: 16px; }
+  .feat { margin-bottom: 1.1rem; }
 }
