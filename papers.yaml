@@ -146,6 +146,7 @@ publications:
   links:
     journal: https://www.sciencedirect.com/science/article/abs/pii/S030438782030033X
     data/code: https://data.mendeley.com/datasets/vbcp9rh8yj/1
+    software: https://ideas.repec.org/c/boc/bocode/s458286.html
   coverage:
   - Development Impact: http://blogs.worldbank.org/impactevaluations/weekly-links-january-6-power-calcs-dual-careers-substitutes-replication-and-more
   - IPA weekly links: https://chrisblattman.com/2017/01/06/ipas-weekly-links-94/
@@ -167,5 +168,6 @@ work_in_progress:
   links:
     rct registry: https://www.socialscienceregistry.org/trials/13590
 - title: Groundwater in a changing climate
-  authors: R. Aaron Hrozencik <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=mw0-7IwOF3ft" title="randomized author order">(r)</a> Louis Preonas <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=mw0-7IwOF3ft" title="randomized author order">(r)</a> Matt Woerman
+  authors: R. Aaron Hrozencik <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=mw0-7IwOF3ft" title="randomized author order">(r)</a> Louis Preonas
+    <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=mw0-7IwOF3ft" title="randomized author order">(r)</a> Matt Woerman
   links: {}

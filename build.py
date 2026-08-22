@@ -13,7 +13,7 @@ SELECTED_PUBS = [
     "The value of clean water",
     "Out of the darkness",
 ]
-LINK_ORDER = ["journal", "handbook", "nber", "appendix", "data/code", "rct registry", "summary"]
+LINK_ORDER = ["journal", "handbook", "nber", "appendix", "data/code", "software", "rct registry", "summary"]
 
 import re
 def slug(p):
