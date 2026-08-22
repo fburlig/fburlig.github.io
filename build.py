@@ -18,20 +18,20 @@ def authors(p):
     if p.get("note"): a += "<sup>†</sup>"
     return a
 
-def links(p):
+def links(p, pdf_label="paper"):
     L = []
-    if p.get("pdf"): L.append(f'<a href="{p["pdf"]}">paper</a>')
+    if p.get("pdf"): L.append(f'<a href="{p["pdf"]}">{pdf_label}</a>')
     for k in LINK_ORDER:
         if k in (p.get("links") or {}): L.append(f'<a href="{p["links"][k]}">{k}</a>')
     return f'<div class="links">{" · ".join(L)}</div>' if L else ""
 
-def entry(p, tail):
+def entry(p, tail, pdf_label="paper"):
     meta = " · ".join(x for x in [authors(p), tail] if x)
-    return f'<div class="paper">\n<span class="ptitle">{p["title"]}</span><br>\n<span class="meta">{meta}</span>\n{links(p)}\n</div>\n'
+    return f'<div class="paper">\n<span class="ptitle">{p["title"]}</span><br>\n<span class="meta">{meta}</span>\n{links(p, pdf_label)}\n</div>\n'
 
 out = ['---\ntitle: "research"\ntoc: false\n---\n', "## working papers\n"]
 for p in D["working_papers"]:
-    out.append(entry(p, p["date"] + (f"<br>{p['status']}" if p.get("status") else "")))
+    out.append(entry(p, p["date"] + (f"<br>{p['status']}" if p.get("status") else ""), pdf_label="draft"))
 out.append("## publications\n")
 for p in D["publications"]:
     out.append(entry(p, f"{p['journal']} · {p['year']}"))

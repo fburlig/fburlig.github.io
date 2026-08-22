@@ -8,37 +8,37 @@ toc: false
 <div class="paper">
 <span class="ptitle">Groundwater and crop choice in the short and long run</span><br>
 <span class="meta">with Louis Preonas and Matt Woerman · February 2026<br>Revise and resubmit, <em>Review of Economic Studies</em></span>
-<div class="links"><a href="s/20260203_BPW_groundwater_with_appx.pdf">paper</a> · <a href="https://www.nber.org/papers/w28706">nber</a> · <a href="https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/">media</a></div>
+<div class="links"><a href="s/20260203_BPW_groundwater_with_appx.pdf">draft</a> · <a href="https://www.nber.org/papers/w28706">nber</a> · <a href="https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/">media</a></div>
 </div>
 
 <div class="paper">
 <span class="ptitle">Blackouts: The role of India's wholesale electricity market</span><br>
 <span class="meta">with Akshaya Jha <a href="https://www.aeaweb.org/journals/policies/random-author-order" title="randomized author order">(r)</a> Louis Preonas · February 2026<br>Conditionally accepted, <em>American Economic Journal: Economic Policy</em></span>
-<div class="links"><a href="s/20250815_JPB_Blackouts.pdf">paper</a> · <a href="https://www.nber.org/papers/w29610">nber</a> · <a href="https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india">media</a></div>
+<div class="links"><a href="s/20250815_JPB_Blackouts.pdf">draft</a> · <a href="https://www.nber.org/papers/w29610">nber</a> · <a href="https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india">media</a></div>
 </div>
 
 <div class="paper">
 <span class="ptitle">Beliefs, forecasts, and investments: Experimental evidence from India</span><br>
 <span class="meta">with Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai · April 2026<br>Revise and resubmit, <em>American Economic Journal: Applied Economics</em></span>
-<div class="links"><a href="s/20260403_BJKLS_forecasts.pdf">paper</a> · <a href="https://www.nber.org/papers/w32173">nber</a> · <a href="https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh">media</a></div>
+<div class="links"><a href="s/20260403_BJKLS_forecasts.pdf">draft</a> · <a href="https://www.nber.org/papers/w32173">nber</a> · <a href="https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh">media</a></div>
 </div>
 
 <div class="paper">
 <span class="ptitle">If you build it, they may not come: Willingness to participate in managed EV charging</span><br>
 <span class="meta">with James Bushnell and David Rapson · April 2026</span>
-<div class="links"><a href="s/20260409_BBR_mangedcharging.pdf">paper</a> · <a href="https://www.nber.org/papers/w35086">nber</a> · <a href="https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/">media</a></div>
+<div class="links"><a href="s/20260409_BBR_mangedcharging.pdf">draft</a> · <a href="https://www.nber.org/papers/w35086">nber</a> · <a href="https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/">media</a></div>
 </div>
 
 <div class="paper">
 <span class="ptitle">Insurance and the demand for adaptation: Theory and experimental evidence from West Bengal</span><br>
 <span class="meta">with Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane · June 2026</span>
-<div class="links"><a href="s/20260610_BDGKL_InsureAdapt.pdf">paper</a></div>
+<div class="links"><a href="s/20260610_BDGKL_InsureAdapt.pdf">draft</a></div>
 </div>
 
 <div class="paper">
 <span class="ptitle">Paying for power</span><br>
 <span class="meta">with Anant Sudarshan · June 2026</span>
-<div class="links"><a href="s/20260616_BS_PayingForPower.pdf">paper</a></div>
+<div class="links"><a href="s/20260616_BS_PayingForPower.pdf">draft</a></div>
 </div>
 
 ## publications
