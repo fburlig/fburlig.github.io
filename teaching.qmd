@@ -1,0 +1,19 @@
+---
+title: "teaching"
+toc: false
+---
+
+
+## university of chicago
+
+<ul class="papers">
+<li><strong>PPHA 34600: Program evaluation</strong> · MPP core, spring quarter, 2019–present
+<div class="links"><a href="teaching/ppha34600-2020.html">2020 materials (slides, syllabi, videos)</a> <a href="teaching/ppha34600-2019.html">2019 materials</a></div></li>
+</ul>
+
+## uc berkeley
+
+<ul class="papers">
+<li><a href="teaching/are212">ARE 212: Multiple equation estimation</a> · GSI, spring 2016 · section notes in R</li>
+<li>IAS 106: Intermediate microeconomic theory · GSI, spring 2014</li>
+</ul>

@@ -1,0 +1,5 @@
+---
+title: ""
+---
+<meta http-equiv="refresh" content="0; url=/teaching/ppha34600-2020.html">
+Moved to [teaching/ppha34600-2020](teaching/ppha34600-2020.qmd).

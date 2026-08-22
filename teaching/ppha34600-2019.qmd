@@ -1,0 +1,37 @@
+---
+title: "PPHA 34600: Program evaluation (2019)"
+toc: false
+---
+
+<p>I teach MPP-level program evaluation at the University of Chicago in the spring quarter. My syllabus and lecture slides can be found here. There are likely mistakes remaining (caveat econometricus). If you find one, let me know!</p>
+
+## syllabus
+
+<ul>
+<li><a href="../s/PPHA_34600_Syllabus_Spring19_FINAL.pdf">PPHA 34600 Syllabus (2019)</a></li>
+</ul>
+
+## lecture notes
+
+<ul>
+<li>Lecture 01: Why program evaluation? [<a href="../s/PPHA_34600_01.pdf">PDF</a>]</li>
+<li>Lecture 02: Treatment parameters and regression [<a href="../s/PPHA_34600_02.pdf">PDF</a>]</li>
+<li>Lecture 03: Randomized controlled trials I [<a href="../s/PPHA_34600_03.pdf">PDF</a>]</li>
+<li>Lecture 04: Randomized controlled trials II [<a href="../s/PPHA_34600_04.pdf">PDF</a>]</li>
+<li>Lecture 05: Randomized controlled trials III [<a href="../s/PPHA_34600_05.pdf">PDF</a>]</li>
+<li>Lecture 06: Evaluation of evaluations [<a href="../s/PPHA_34600_06.pdf">PDF</a>]</li>
+<li>Lecture 07: Selection on observables [<a href="../s/PPHA_34600_07.pdf">PDF</a>]</li>
+<li>Lecture 08: Instrumental variables I [<a href="../s/PPHA_34600_08.pdf">PDF</a>]</li>
+<li>Lecture 09: Instrumental variables II [<a href="../s/PPHA_34600_09.pdf">PDF</a>]</li>
+<li>Lecture 10: Instrumental variables III [<a href="../s/PPHA_34600_10.pdf">PDF</a>]</li>
+<li>Lecture 11: Panel data I [<a href="../s/PPHA_34600_11.pdf">PDF</a>]</li>
+<li>Lecture 12: Panel data II [<a href="../s/PPHA_34600_12.pdf">PDF</a>]</li>
+<li>Lecture 13: Panel data III [<a href="../s/PPHA_34600_13.pdf">PDF</a>]</li>
+<li>Lecture 14: Regression discontinuity I [<a href="../s/PPHA_34600_14.pdf">PDF</a>]</li>
+<li>Lecture 15: Regression discontinuity II [<a href="../s/PPHA_34600_15.pdf">PDF</a>]</li>
+<li>Lecture 16: Big data and machine learning I [<a href="../s/PPHA_34600_16.pdf">PDF</a>]</li>
+<li>Lecture 17: Big data and machine learning II [<a href="../s/PPHA_34600_17.pdf">PDF</a>]</li>
+<li>Lecture 18: Policy lab I [<a href="../s/PPHA_34600_18_1.pdf">PDF1</a>, <a href="../s/PPHA_34600_18_2.pdf">PDF2</a>]</li>
+<li>Lecture 19: Policy lab II [<a href="../s/PPHA_34600_19_1.pdf">PDF1</a>, <a href="../s/PPHA_34600_19_2.pdf">PDF2</a>]</li>
+<li>Lecture 20: Wrapping up [<a href="../s/PPHA_34600_20.pdf">PDF</a>]</li>
+</ul>
