@@ -47,7 +47,7 @@ lines = []; fn = False
 for pre in FEATURED_ORDER:
     p = next(p for p in allp if p["title"].startswith(pre))
     st = p.get("status") or (p["journal"].split(",")[0] if p.get("journal") else "")
-    t = f'[{p["title"]}]({p["pdf"]})' if p.get("pdf") else p["title"]
+    t = f'<a href="{p["pdf"]}">{p["title"]}</a>' if p.get("pdf") else p["title"]
     bits = [t] + ([authors(p)] if p.get("authors") else []) + ([st] if st else [])
     fn |= bool(p.get("note"))
     lines.append('<div class="feat">↳ ' + " · ".join(bits) + "</div>")
