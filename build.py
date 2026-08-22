@@ -64,11 +64,11 @@ def feat(pre):
     p = next(p for p in allp if p["title"].startswith(pre))
     st = p.get("status") or (f"{p['journal']}" if p.get("journal") else "")
     lab = "paper" if p.get("journal") else "draft"
-    rows = [f'<span class="ptitle">{p["title"]}</span>']
+    t = f'<a href="{p["pdf"]}">{p["title"]}</a>' if p.get("pdf") else p["title"]
+    rows = [f'<span class="ftitle">{t}</span>']
     if p.get("authors"): rows.append(f'<span class="meta">{authors(p)}</span>')
     if st: rows.append(f'<span class="meta">{st}</span>')
-    rows.append(links(p, lab))
-    return '<div class="feat">\n' + "<br>\n".join(rows[:-1]) + "\n" + rows[-1] + "\n</div>"
+    return '<div class="feat">\n' + "<br>\n".join(rows) + "\n</div>"
 open("_featured.md", "w").write("\n".join(feat(x) for x in CURRENT) + "\n")
 open("_selected.md", "w").write("\n".join(feat(x) for x in SELECTED_PUBS) + "\n")
 print("built research.qmd, coverage.qmd, _featured.md, _selected.md")
