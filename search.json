@@ -21,37 +21,37 @@
     "text": "working papers\n\nGroundwater and crop choice in the short and long run with Louis Preonas and Matt Woerman · February 2026Revise and resubmit, Review of Economic Studies\n\n[NBER WP] [Forbes post] [Barron’s op-ed] [Forecast Direct podcast]\n\n\n\nBlackouts: The role of India’s wholesale electricity market with Akshaya Jha (r) Louis Preonas · February 2026Conditionally accepted, American Economic Journal: Economic Policy\n\n[NBER WP] [VoxDev] [Ideas for India] [VoxEU]\n\n\n\nBeliefs, forecasts, and investments: Experimental evidence from India with Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai · April 2026Revise and resubmit, American Economic Journal: Applied Economics\n\n[NBER WP] [AEA RCT registry] [Policy brief] [Media coverage]\n\n\n\nIf you build it, they may not come: Willingness to participate in managed EV charging with James Bushnell and David Rapson · April 2026\n\n[NBER WP] [AEA RCT registry] [Policy brief]\n\n\n\nInsurance and the demand for adaptation: Theory and experimental evidence from West Bengal with Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane · June 2026\n\n[AEA RCT registry]\n\n\n\nPaying for power with Anant Sudarshan · June 2026\n\n[AEA RCT registry]"
   },
   {
-    "objectID": "research.html#work-in-progress",
-    "href": "research.html#work-in-progress",
+    "objectID": "research.html#selected-work-in-progress",
+    "href": "research.html#selected-work-in-progress",
     "title": "research",
-    "section": "work in progress",
-    "text": "work in progress\n\nIncentives for climate adaptation: Experimental evidence from Odisha with Manzoor Dar, Jack Glaser, and Anant Sudarshan\n\n\nForecasts at scale: General equilibrium impacts of climate adaptation with Amir Jina, Erin Kelley, and Gregory Lane\n\n[AEA RCT registry]\n\n\n\nGroundwater in a changing climate with R. Aaron Hrozencik, Louis Preonas, and Matt Woerman"
+    "section": "selected work in progress",
+    "text": "selected work in progress\n\nIncentives for climate adaptation: Experimental evidence from Odisha with Manzoor Dar, Jack Glaser, and Anant Sudarshan\n\n\nForecasts at scale: General equilibrium impacts of climate adaptation with Amir Jina, Erin Kelley, and Gregory Lane\n\n[AEA RCT registry]\n\n\n\nGroundwater in a changing climate with R. Aaron Hrozencik, Louis Preonas, and Matt Woerman"
   },
   {
     "objectID": "teaching/are212.html",
     "href": "teaching/are212.html",
-    "title": "ARE 212: Multiple equation estimation",
+    "title": "Graduate econometrics notes",
     "section": "",
-    "text": "I served as the GSI for Max Auffhammer’s first-year PhD econometrics course, ARE 212, in Spring 2016. I built these notes off of material from Dan Hammer, Patrick Baylis, and Kenny Bell. I’ve created some sections from scratch and expanded others, so there are likely mistakes remaining (caveat econometricus). If you find one, let me know!"
+    "text": "ARE 212 · UC Berkeley · Spring 2016 · archived teaching resource\nI served as the GSI for Max Auffhammer’s first-year PhD econometrics course, ARE 212, in Spring 2016. I built these notes off of material from Dan Hammer, Patrick Baylis, and Kenny Bell. I’ve created some sections from scratch and expanded others, so there are likely mistakes remaining (caveat econometricus). If you find one, let me know!"
   },
   {
     "objectID": "teaching/are212.html#syllabus",
     "href": "teaching/are212.html#syllabus",
-    "title": "ARE 212: Multiple equation estimation",
+    "title": "Graduate econometrics notes",
     "section": "syllabus",
     "text": "syllabus\n\n\nARE 212 Syllabus - 2016 Edition"
   },
   {
     "objectID": "teaching/are212.html#section-notes",
     "href": "teaching/are212.html#section-notes",
-    "title": "ARE 212: Multiple equation estimation",
+    "title": "Graduate econometrics notes",
     "section": "section notes",
     "text": "section notes\n\n\nSection 1: Introduction to R [PDF] [ZIP: PDF, Rnw, & data]\n\n\nSection 2: knitr and matrix operations [PDF] [ZIP]\n\n\nSection 3: Functions and looping (feat OLS) [PDF] [ZIP]\n\n\nSection 4: Partitioned regression and goodness of fit [PDF] [ZIP]\n\n\nSection 5: Hypothesis testing [PDF] [ZIP]\n\n\nSection 6: Figures with ggplot2 [PDF] [ZIP]\n\n\nSection 7: GLS and MLE [PDF] [ZIP]\n\n\nSection 8: Large-sample properties of OLS [PDF] [ZIP]\n\n\nSection 9: Non-standard standard errors I [PDF] [ZIP]\n\n\nSection 10: Non-standard standard errors II [PDF] [ZIP] [A useful note on Hsiang’s Conley SE implementation in Stata]\n\n\nSection 11: Instrumental variables [PDF] [ZIP]\n\n\nSection 12: Power calculations [PDF] [ZIP]\n\n\nSection 13: Spatial data [PDF] [ZIP - largeish file]\n\n\nSection 14: Replication [PDF] [ZIP]\n\n\n\nBonus: Monte Carlo primer [PDF] [ZIP]"
   },
   {
     "objectID": "teaching/are212.html#other-useful-stuff",
     "href": "teaching/are212.html#other-useful-stuff",
-    "title": "ARE 212: Multiple equation estimation",
+    "title": "Graduate econometrics notes",
     "section": "other useful stuff",
     "text": "other useful stuff\n\nGoogle’s R style guide\n\n\nRStudio’s cheat sheets (particularly helpful: the RStudio IDE one, the Data Visualization one, and the Data Wrangling one)\n\n\nSwirl: R tutorials"
   },
@@ -60,21 +60,14 @@
     "href": "teaching.html",
     "title": "teaching",
     "section": "",
-    "text": "PPHA 34600: Program evaluation · MPP core, spring quarter, 2019–present\n\n2020 materials (slides, syllabi, videos) 2019 materials"
+    "text": "Program evaluation PPHA 34600 · Harris School of Public Policy · 2019–present\nMPP-level program evaluation: treatment effects, randomized experiments, selection on observables, instrumental variables, panel data, regression discontinuity, and machine learning for causal inference.\n\n[Course materials] syllabi, lecture slides, and recorded lectures\n\n\nArchived materials: [2019 slides and syllabus]"
   },
   {
-    "objectID": "teaching.html#university-of-chicago",
-    "href": "teaching.html#university-of-chicago",
+    "objectID": "teaching.html#teaching-resources",
+    "href": "teaching.html#teaching-resources",
     "title": "teaching",
-    "section": "",
-    "text": "PPHA 34600: Program evaluation · MPP core, spring quarter, 2019–present\n\n2020 materials (slides, syllabi, videos) 2019 materials"
-  },
-  {
-    "objectID": "teaching.html#uc-berkeley",
-    "href": "teaching.html#uc-berkeley",
-    "title": "teaching",
-    "section": "uc berkeley",
-    "text": "uc berkeley\n\n\nARE 212: Multiple equation estimation · GSI, spring 2016 · section notes in R\n\n\nIAS 106: Intermediate microeconomic theory · GSI, spring 2014"
+    "section": "teaching resources",
+    "text": "teaching resources\n\nGraduate econometrics notes ARE 212 · UC Berkeley · Spring 2016\nSection notes, code, and exercises I wrote as the GSI for first-year PhD econometrics: R, matrix algebra and OLS, partitioned regression, hypothesis testing, GLS and MLE, asymptotics, robust and clustered standard errors, instrumental variables, power calculations, spatial data, and replication. Kept online as a teaching resource.\n\n[Notes and code]"
   },
   {
     "objectID": "index.html",

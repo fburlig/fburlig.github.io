@@ -28,3 +28,5 @@ ul.papers li { margin-bottom: 1rem; }
 .ptitle { font-size: 1.15rem; font-weight: 400; }
 .links { margin-top: .15rem; }
 h2 { margin-bottom: 1.25rem; }
+
+.quarto-title h1.title { font-size: 1.35rem; font-weight: 600; margin-bottom: 1.5rem; }
