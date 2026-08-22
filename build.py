@@ -25,7 +25,7 @@ def page(title, here, body):
 <link rel="stylesheet" href="/style.css">
 </head><body>
 <nav>{nav}</nav>
-{body}
+<div class="page">{body}</div>
 
 </body></html>
 """
@@ -66,7 +66,8 @@ for pre in FEATURED_ORDER:
     st = p.get("status") or (f"{p['journal'].split(',')[0]}" if p.get("journal") else "")
     feat += f'<li>{title_link(p)}{with_(p)}{" · " + st if st else ""}</li>'
 
-index = f"""<img class="headshot" src="/headshot.jpg" alt="Fiona Burlig">
+index = f"""<aside><img class="headshot" src="/headshot.jpg" alt="Fiona Burlig"></aside>
+<main>
 <p class="lede">I am <strong>Fiona Burlig</strong>, an assistant professor at the Harris School of Public Policy at the University of Chicago, an NBER Faculty Research Fellow (EEE and DEV), an affiliate of J-PAL, BREAD, and the IGC, and Deputy Faculty Director of EPIC-India and the Odisha Data, Policy, and Innovation Centre. I am an applied microeconomist with research interests in and at the intersection of energy, environmental, and resource economics and development economics. Prior to joining Harris, I was a postdoc in the Department of Economics at the University of Chicago. I hold a PhD in agricultural and resource economics from the University of California, Berkeley, and a BA in economics, political science, and German from Williams College.</p>
 
 <h2>research</h2>
@@ -82,6 +83,7 @@ index = f"""<img class="headshot" src="/headshot.jpg" alt="Fiona Burlig">
 
 <h2>more</h2>
 <p class="inline"><a href="/cv.pdf">CV</a><a href="https://scholar.google.com/citations?user=73OXPLsAAAAJ">Google Scholar</a><a href="https://github.com/fburlig">GitHub</a><a href="mailto:burlig@uchicago.edu">contact</a></p>
+</main>
 """
 open("index.html", "w").write(page("Fiona Burlig", "home", index))
 print("built index.html, research.html")
