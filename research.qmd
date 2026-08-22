@@ -14,7 +14,7 @@ toc: false
 <div class="paper">
 <span class="ptitle">Blackouts: The role of India's wholesale electricity market</span><br>
 <span class="meta">with Akshaya Jha <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=kO-uBJ-nEo6x" title="randomized author order">(r)</a> Louis Preonas · February 2026<br>Conditionally accepted, <em>American Economic Journal: Economic Policy</em></span>
-<div class="links"><a href="s/20250815_JPB_Blackouts.pdf">draft</a> · <a href="https://www.nber.org/papers/w29610">nber</a> · <a href="https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india">summary</a> · <a href="coverage.html#blackouts-the-role-of-india-s-wholesale-">coverage</a></div>
+<div class="links"><a href="s/20260222_JPB_Blackouts_withappx.pdf">draft</a> · <a href="https://www.nber.org/papers/w29610">nber</a> · <a href="https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india">summary</a> · <a href="coverage.html#blackouts-the-role-of-india-s-wholesale-">coverage</a></div>
 </div>
 
 <div class="paper">
