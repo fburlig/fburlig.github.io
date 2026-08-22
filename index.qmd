@@ -15,8 +15,6 @@ I'm **Fiona Burlig**, an assistant professor at the Harris School of Public Poli
 
 {{< include _featured.md >}}
 
-[all research →](research.qmd)
-
 :::
 
 ::: {.column width="5%"}
