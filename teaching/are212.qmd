@@ -3,7 +3,7 @@ title: "Graduate econometrics notes"
 toc: false
 ---
 
-<p class="archive-note">Archived course materials · Spring 2016 · <a href="../teaching.html">← teaching</a><br>These materials are archived from Spring 2016 and are retained because they continue to be useful as econometrics references.</p>
+<p class="archive-note">Archived course materials · Spring 2016<br>These materials are archived from Spring 2016 and are retained because they continue to be useful as econometrics references.</p>
 
 <p>I served as the GSI for <a href="http://www.auffhammer.com/">Max Auffhammer</a>'s first-year PhD econometrics course, ARE 212, in Spring 2016. I built these notes off of material from <a href="https://github.com/danhammer/ARE212">Dan Hammer</a>, <a href="https://github.com/pbaylis/ARE212/">Patrick Baylis</a>, and <a href="https://github.com/kendonB/ARE212">Kenny Bell</a>. I've created some sections from scratch and expanded others, so there are likely mistakes remaining (caveat econometricus). If you find one, let me know!</p>
 

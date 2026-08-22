@@ -3,7 +3,7 @@ title: "PPHA 34600: Program evaluation (2020)"
 toc: false
 ---
 
-<p class="archive-note">Archived course materials · Spring 2020 · <a href="../teaching.html">← teaching</a></p>
+<p class="archive-note">Archived course materials · Spring 2020</p>
 
 <p>I teach MPP-level program evaluation at the University of Chicago in the spring quarter.</p>
 <p>The class is split into three sections, each with a distinct topical focus. Section 1 has a general applied micro focus. Section 2 has an international development focus. Section 3 has an energy and environment focus. The below materials are broken out into sections where applicable.</p>
