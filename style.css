@@ -32,3 +32,4 @@ aside { grid-column: 1; }
 main { grid-column: 2; }
 .headshot { width: 9rem; display: block; }
 @media (max-width: 40rem) { .page { grid-template-columns: 1fr; } .page > * { grid-column: 1 !important; } .headshot { width: 7rem; margin-bottom: 1.5rem; } }
+@media (min-width: 40.01rem) { nav { margin-left: 11.5rem; } }
