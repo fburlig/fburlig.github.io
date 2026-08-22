@@ -28,7 +28,7 @@ working_papers:
   links:
     nber: https://www.nber.org/papers/w32173
     media: https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh
-    registry: https://www.socialscienceregistry.org/trials/8846
+    rct registry: https://www.socialscienceregistry.org/trials/8846
 - title: 'If you build it, they may not come: Willingness to participate in managed EV charging'
   authors: James Bushnell and David Rapson
   pdf: s/20260409_BBR_mangedcharging.pdf
@@ -36,21 +36,21 @@ working_papers:
   links:
     nber: https://www.nber.org/papers/w35086
     media: https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/
-    registry: https://www.socialscienceregistry.org/trials/14013
+    rct registry: https://www.socialscienceregistry.org/trials/14013
 - title: 'Insurance and the demand for adaptation: Theory and experimental evidence from West Bengal'
   authors: Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane
   pdf: s/20260610_BDGKL_InsureAdapt.pdf
   date: June 2026
   featured: true
   links:
-    registry: https://www.socialscienceregistry.org/trials/13781
+    rct registry: https://www.socialscienceregistry.org/trials/13781
 - title: Paying for power
   authors: Anant Sudarshan
   pdf: s/20260616_BS_PayingForPower.pdf
   date: June 2026
   featured: true
   links:
-    registry: https://www.socialscienceregistry.org/trials/8742
+    rct registry: https://www.socialscienceregistry.org/trials/8742
 publications:
 - title: 'The value of clean water: Experimental evidence from rural India'
   authors: Amir Jina and Anant Sudarshan
@@ -63,7 +63,7 @@ publications:
     appendix: s/BJS_IndiaWater_Published_appx.pdf
     data/code: https://www.openicpsr.org/openicpsr/project/238281/version/V1/view
     media: https://wakelet.com/wake/txezHB5_a-FkRS5HvwEuV
-    registry: https://www.socialscienceregistry.org/trials/10545
+    rct registry: https://www.socialscienceregistry.org/trials/10545
 - title: Reforming energy subsidies
   authors: Anant Sudarshan
   pdf: s/BS_handbook_published.pdf
@@ -133,7 +133,7 @@ work_in_progress:
 - title: 'Forecasts at scale: General equilibrium impacts of climate adaptation'
   authors: Amir Jina, Erin Kelley, and Gregory Lane
   links:
-    registry: https://www.socialscienceregistry.org/trials/13590
+    rct registry: https://www.socialscienceregistry.org/trials/13590
 - title: Groundwater in a changing climate
   authors: R. Aaron Hrozencik, Louis Preonas, and Matt Woerman
   links: {}

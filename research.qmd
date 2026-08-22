@@ -20,25 +20,25 @@ toc: false
 <div class="paper">
 <span class="ptitle">Beliefs, forecasts, and investments: Experimental evidence from India</span><br>
 <span class="meta">with Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai · April 2026<br>Revise and resubmit, <em>American Economic Journal: Applied Economics</em></span>
-<div class="links"><a href="s/20260403_BJKLS_forecasts.pdf">draft</a> · <a href="https://www.nber.org/papers/w32173">nber</a> · <a href="https://www.socialscienceregistry.org/trials/8846">registry</a> · <a href="https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh">media</a></div>
+<div class="links"><a href="s/20260403_BJKLS_forecasts.pdf">draft</a> · <a href="https://www.nber.org/papers/w32173">nber</a> · <a href="https://www.socialscienceregistry.org/trials/8846">rct registry</a> · <a href="https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh">media</a></div>
 </div>
 
 <div class="paper">
 <span class="ptitle">If you build it, they may not come: Willingness to participate in managed EV charging</span><br>
 <span class="meta">with James Bushnell and David Rapson · April 2026</span>
-<div class="links"><a href="s/20260409_BBR_mangedcharging.pdf">draft</a> · <a href="https://www.nber.org/papers/w35086">nber</a> · <a href="https://www.socialscienceregistry.org/trials/14013">registry</a> · <a href="https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/">media</a></div>
+<div class="links"><a href="s/20260409_BBR_mangedcharging.pdf">draft</a> · <a href="https://www.nber.org/papers/w35086">nber</a> · <a href="https://www.socialscienceregistry.org/trials/14013">rct registry</a> · <a href="https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/">media</a></div>
 </div>
 
 <div class="paper">
 <span class="ptitle">Insurance and the demand for adaptation: Theory and experimental evidence from West Bengal</span><br>
 <span class="meta">with Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane · June 2026</span>
-<div class="links"><a href="s/20260610_BDGKL_InsureAdapt.pdf">draft</a> · <a href="https://www.socialscienceregistry.org/trials/13781">registry</a></div>
+<div class="links"><a href="s/20260610_BDGKL_InsureAdapt.pdf">draft</a> · <a href="https://www.socialscienceregistry.org/trials/13781">rct registry</a></div>
 </div>
 
 <div class="paper">
 <span class="ptitle">Paying for power</span><br>
 <span class="meta">with Anant Sudarshan · June 2026</span>
-<div class="links"><a href="s/20260616_BS_PayingForPower.pdf">draft</a> · <a href="https://www.socialscienceregistry.org/trials/8742">registry</a></div>
+<div class="links"><a href="s/20260616_BS_PayingForPower.pdf">draft</a> · <a href="https://www.socialscienceregistry.org/trials/8742">rct registry</a></div>
 </div>
 
 ## publications
@@ -46,7 +46,7 @@ toc: false
 <div class="paper">
 <span class="ptitle">The value of clean water: Experimental evidence from rural India</span><br>
 <span class="meta">with Amir Jina and Anant Sudarshan · <em>American Economic Review</em>, 116(3): 1148–1187 · 2026</span>
-<div class="links"><a href="s/BJS_IndiaWater_Published_sansappx.pdf">paper</a> · <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20250278">journal</a> · <a href="s/BJS_IndiaWater_Published_appx.pdf">appendix</a> · <a href="https://www.openicpsr.org/openicpsr/project/238281/version/V1/view">data/code</a> · <a href="https://www.socialscienceregistry.org/trials/10545">registry</a> · <a href="https://wakelet.com/wake/txezHB5_a-FkRS5HvwEuV">media</a></div>
+<div class="links"><a href="s/BJS_IndiaWater_Published_sansappx.pdf">paper</a> · <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20250278">journal</a> · <a href="s/BJS_IndiaWater_Published_appx.pdf">appendix</a> · <a href="https://www.openicpsr.org/openicpsr/project/238281/version/V1/view">data/code</a> · <a href="https://www.socialscienceregistry.org/trials/10545">rct registry</a> · <a href="https://wakelet.com/wake/txezHB5_a-FkRS5HvwEuV">media</a></div>
 </div>
 
 <div class="paper">
@@ -102,7 +102,7 @@ toc: false
 <div class="paper">
 <span class="ptitle">Forecasts at scale: General equilibrium impacts of climate adaptation</span><br>
 <span class="meta">with Amir Jina, Erin Kelley, and Gregory Lane</span>
-<div class="links"><a href="https://www.socialscienceregistry.org/trials/13590">registry</a></div>
+<div class="links"><a href="https://www.socialscienceregistry.org/trials/13590">rct registry</a></div>
 </div>
 
 <div class="paper">
