@@ -1,30 +1,27 @@
-:root { --text:#1a1a1a; --muted:#6b6b6b; --link:#1f4e8c; --rule:#e4e4e4; --bg:#fff; }
+:root { --text:#1a1a1a; --muted:#6b6b6b; --link:#1f4e8c; --bg:#fff; }
 @media (prefers-color-scheme: dark) {
-  :root { --text:#e6e6e6; --muted:#9a9a9a; --link:#8ab4f8; --rule:#333; --bg:#141414; }
+  :root { --text:#e6e6e6; --muted:#9a9a9a; --link:#8ab4f8; --bg:#141414; }
 }
 html { font-size: 18px; }
 body { font-family: "Source Sans 3", "Source Sans Pro", -apple-system, "Helvetica Neue", Arial, sans-serif;
-  color: var(--text); background: var(--bg); line-height: 1.55; max-width: 42rem;
-  margin: 3rem auto 5rem; padding: 0 1.25rem; }
+  color: var(--text); background: var(--bg); line-height: 1.6; max-width: 34rem;
+  margin: 6rem auto 8rem; padding: 0 1.5rem; }
 a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
-nav { margin-bottom: 2.5rem; font-size: .95rem; }
-nav a { margin-right: 1.25rem; color: var(--muted); }
-nav a.here { color: var(--text); }
-h1 { font-size: 1.6rem; font-weight: 600; margin: 0 0 .25rem; letter-spacing: -.01em; }
-h2 { font-size: 1.05rem; font-weight: 600; text-transform: lowercase; letter-spacing: .02em;
-  margin: 2.25rem 0 .6rem; padding-top: .6rem; border-top: 1px solid var(--rule); }
-h3 { font-size: .95rem; font-weight: 600; margin: 1.5rem 0 .5rem; color: var(--muted); }
-p { margin: 0 0 .9rem; }
-.lede { color: var(--muted); margin-bottom: 2rem; }
+nav { margin-bottom: 3rem; font-size: .9rem; }
+nav a { color: var(--muted); }
+h1 { font-size: 1.15rem; font-weight: 600; margin: 0 0 1.5rem; }
+h2 { font-size: 1rem; font-weight: 600; text-transform: lowercase; margin: 3rem 0 .75rem; }
+h3 { font-size: .95rem; font-weight: 600; margin: 1.75rem 0 .5rem; color: var(--muted); }
+p { margin: 0 0 1rem; }
+.lede { font-size: 1.1rem; }
 ul { list-style: none; padding: 0; margin: 0; }
-li { margin: 0 0 .55rem; }
-ul.papers li { margin-bottom: 1rem; }
+li { margin: 0 0 .6rem; }
+ul.papers li { margin-bottom: 1.25rem; }
 .arrow li { padding-left: 1.3rem; text-indent: -1.3rem; }
 .arrow li::before { content: "↳ "; color: var(--muted); }
 .meta { color: var(--muted); font-size: .92rem; }
 .links { font-size: .85rem; color: var(--muted); }
 .links a { margin-right: .6rem; }
-.more { margin-top: .5rem; font-size: .95rem; }
+.more { margin-top: .75rem; }
 .inline a + a::before { content: " · "; color: var(--muted); }
-footer { margin-top: 4rem; font-size: .8rem; color: var(--muted); }

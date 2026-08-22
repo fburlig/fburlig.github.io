@@ -12,10 +12,7 @@ FEATURED_ORDER = [  # homepage order
 ]
 
 def page(title, here, body):
-    nav = "".join(
-        f'<a href="{h}"{" class=here" if k == here else ""}>{k}</a>'
-        for k, h in [("home", "/"), ("research", "/research"), ("teaching", "/teaching"), ("cv", "/cv.pdf")]
-    )
+    nav = "" if here == "home" else '<a href="/">← fiona burlig</a>'
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +23,7 @@ def page(title, here, body):
 </head><body>
 <nav>{nav}</nav>
 {body}
-<footer>Fiona Burlig · burlig@uchicago.edu · Keller Center #2069, 1307 E 60th St, Chicago, IL 60637</footer>
+
 </body></html>
 """
 
@@ -49,7 +46,7 @@ wp = "".join(entry(p, f" · {p['date']}" + (f"<br>{p['status']}" if p.get("statu
 pub = "".join(entry(p, f" · {p['journal']} · {p['year']}") for p in D["publications"])
 wip = "".join(entry(p, "") for p in D["work_in_progress"])
 research = f"""<h1>Research</h1>
-<p class="lede">Working papers, publications, and work in progress. Links to NBER versions, appendices, replication packages, and coverage are listed under each paper.</p>
+<p class="meta">Working papers, publications, and work in progress. NBER versions, appendices, replication packages, and coverage are linked under each paper.</p>
 <h2>working papers</h2><ul class="papers">{wp}</ul>
 <h2>publications</h2><ul class="papers">{pub}</ul>
 <h2>work in progress</h2><ul class="papers">{wip}</ul>
@@ -66,23 +63,25 @@ for pre in FEATURED_ORDER:
     st = p.get("status") or (f"{p['journal'].split(',')[0]}" if p.get("journal") else "")
     feat += f'<li>{title_link(p)}{with_(p)}{" · " + st if st else ""}</li>'
 
-index = f"""<h1>Fiona Burlig</h1>
-<p class="lede">Associate Professor, Harris School of Public Policy, University of Chicago.</p>
+index = f"""<p class="lede"><strong>Fiona Burlig</strong> is an associate professor at the Harris School of Public Policy at the University of Chicago.</p>
 
 <h2>research</h2>
-<p>I'm an environmental and energy economist. My research studies how households, firms, and governments respond to environmental change and environmental policy, with a particular focus on energy, water, and climate adaptation in low- and middle-income countries.</p>
+<p>I'm an environmental and energy economist. I study how households, firms, and governments respond to environmental change and environmental policy, with a particular focus on energy, water, and climate adaptation in low- and middle-income countries.</p>
 <p>Some current work…</p>
 <ul class="arrow">{feat}</ul>
 <p class="more"><a href="/research">all research →</a></p>
 
 <h2>teaching</h2>
 <ul class="arrow">
-<li><a href="/teaching">PPHA 34600: Program evaluation</a> · Harris School, spring quarter</li>
+<li><a href="/teaching">Program evaluation</a> · PPHA 34600, Harris School, every spring</li>
 </ul>
+
+<h2>me</h2>
+<p>Before Chicago I was a postdoc in the economics department here, and before that I did a PhD in agricultural and resource economics at Berkeley and a BA at Williams. I'm a faculty research fellow at NBER, an affiliate of J-PAL, BREAD, and the IGC, and deputy faculty director of EPIC-India and the Odisha Data, Policy, and Innovation Centre.</p>
+<!-- add one sentence of non-work personality here if you like -->
 
 <h2>more</h2>
 <p class="inline"><a href="/cv.pdf">CV</a><a href="https://scholar.google.com/citations?user=73OXPLsAAAAJ">Google Scholar</a><a href="https://github.com/fburlig">GitHub</a><a href="mailto:burlig@uchicago.edu">contact</a></p>
-<p class="meta">NBER Faculty Research Fellow (EEE and DEV); affiliate of J-PAL, BREAD, and the IGC; Deputy Faculty Director of EPIC-India and the Odisha Data, Policy, and Innovation Centre.</p>
 """
 open("index.html", "w").write(page("Fiona Burlig", "home", index))
 print("built index.html, research.html")
