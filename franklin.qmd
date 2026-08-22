@@ -1,6 +1,8 @@
+<!-- font comparison copy of index.qmd; delete when decided -->
 ---
 title: ""
 toc: false
+css: [styles.css, _franklin.css]
 ---
 
 :::: {.columns}

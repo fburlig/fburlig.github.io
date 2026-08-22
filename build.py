@@ -3,13 +3,15 @@
 import yaml
 
 D = yaml.safe_load(open("papers.yaml"))
-FEATURED_ORDER = [  # homepage order; must match title prefixes in papers.yaml
-    "The value of clean water",
-    "Out of the darkness",
+CURRENT = [  # homepage "current research", in order; title prefixes from papers.yaml
     "Groundwater and crop choice",
     "Beliefs, forecasts, and investments",
-    "Paying for power",
     "Insurance and the demand for adaptation",
+    "Paying for power",
+]
+SELECTED_PUBS = [
+    "The value of clean water",
+    "Out of the darkness",
 ]
 LINK_ORDER = ["journal", "handbook", "nber", "appendix", "data/code", "rct registry", "summary"]
 
@@ -58,15 +60,15 @@ for sec in ("working_papers", "publications"):
 open("coverage.qmd", "w").write("\n".join(cov))
 
 allp = D["working_papers"] + D["publications"]
-lines = []; fn = False
-for pre in FEATURED_ORDER:
+def feat(pre):
     p = next(p for p in allp if p["title"].startswith(pre))
-    st = p.get("status") or (p["journal"].split(",")[0] if p.get("journal") else "")
-    t = f'<a href="{p["pdf"]}">{p["title"]}</a>' if p.get("pdf") else p["title"]
-    bits = [t] + ([authors(p)] if p.get("authors") else []) + ([st] if st else [])
-    fn |= bool(p.get("note"))
-    lines.append('<div class="feat">↳ ' + " · ".join(bits) + "</div>")
-s = "\n".join(lines) + "\n"
-if fn: s += '\n<p class="meta footnote">† randomized author order</p>\n'
-open("_featured.md", "w").write(s)
-print("built research.qmd, _featured.md")
+    st = p.get("status") or (f"{p['journal']}" if p.get("journal") else "")
+    lab = "paper" if p.get("journal") else "draft"
+    rows = [f'<span class="ptitle">{p["title"]}</span>']
+    if p.get("authors"): rows.append(f'<span class="meta">{authors(p)}</span>')
+    if st: rows.append(f'<span class="meta">{st}</span>')
+    rows.append(links(p, lab))
+    return '<div class="feat">\n' + "<br>\n".join(rows[:-1]) + "\n" + rows[-1] + "\n</div>"
+open("_featured.md", "w").write("\n".join(feat(x) for x in CURRENT) + "\n")
+open("_selected.md", "w").write("\n".join(feat(x) for x in SELECTED_PUBS) + "\n")
+print("built research.qmd, coverage.qmd, _featured.md, _selected.md")
