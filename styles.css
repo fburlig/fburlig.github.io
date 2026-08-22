@@ -25,7 +25,7 @@ a:hover { text-decoration: underline; }
 
 /* Papers */
 .feat { margin-bottom: 1.1rem; line-height: 1.45; }
-.feat .links { margin-top: .1rem; }
+.ftitle { font-size: 1rem; font-weight: 500; }
 .affil { color: #6b6b6b; font-size: .85rem; margin: -.25rem 0 1.5rem; }
 .affil a { color: #6b6b6b; }
 .paper { margin-bottom: 2.25rem; }
