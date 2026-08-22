@@ -11,14 +11,13 @@ working_papers:
     nber: https://www.nber.org/papers/w28706
     media: https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/
 - title: 'Blackouts: The role of India''s wholesale electricity market'
-  authors: Akshaya Jha and Louis Preonas
+  authors: Akshaya Jha <a href="https://www.aeaweb.org/journals/policies/random-author-order" title="randomized author order">(r)</a> Louis Preonas
   pdf: s/20250815_JPB_Blackouts.pdf
   date: February 2026
   status: 'Conditionally accepted, <em>American Economic Journal: Economic Policy</em>'
   links:
     nber: https://www.nber.org/papers/w29610
     media: https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india
-  note: randomized author order
   featured: true
 - title: 'Beliefs, forecasts, and investments: Experimental evidence from India'
   authors: Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai
