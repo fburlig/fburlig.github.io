@@ -4,12 +4,12 @@ import yaml
 
 D = yaml.safe_load(open("papers.yaml"))
 FEATURED_ORDER = [  # homepage order; must match title prefixes in papers.yaml
+    "The value of clean water",
+    "Out of the darkness",
+    "Groundwater and crop choice",
+    "Beliefs, forecasts, and investments",
     "Paying for power",
     "Insurance and the demand for adaptation",
-    "The value of clean water",
-    "Groundwater and crop choice",
-    "Blackouts",
-    "Beliefs, forecasts, and investments",
 ]
 LINK_ORDER = ["journal", "handbook", "nber", "appendix", "data/code", "rct registry", "summary"]
 
