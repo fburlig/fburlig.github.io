@@ -54,13 +54,12 @@ working_papers:
 publications:
 - title: 'The value of clean water: Experimental evidence from rural India'
   authors: Amir Jina and Anant Sudarshan
-  pdf: s/BJS_IndiaWater_Published_sansappx.pdf
+  pdf: s/BJS_IndiaWater_Published_with_appx.pdf
   year: 2026
   journal: '<em>American Economic Review</em>, 116(3): 1148–1187'
   featured: true
   links:
     journal: https://www.aeaweb.org/articles?id=10.1257/aer.20250278
-    appendix: s/BJS_IndiaWater_Published_appx.pdf
     data/code: https://www.openicpsr.org/openicpsr/project/238281/version/V1/view
     coverage: https://wakelet.com/wake/txezHB5_a-FkRS5HvwEuV
     rct registry: https://www.socialscienceregistry.org/trials/10545
@@ -73,22 +72,20 @@ publications:
     handbook: https://direct.mit.edu/books/oa-edited-volume/6103/chapter/6001748/Reforming-Energy-Subsidies
 - title: Out of the darkness and into the light? Development effects of rural electrification
   authors: Louis Preonas
-  pdf: s/Burlig_Preonas_RGGVY_published.pdf
+  pdf: s/Burlig_Preonas_RGGVY_published_with_appx.pdf
   year: 2024
   journal: '<em>Journal of Political Economy</em>, 132(9): 2937–2971'
   links:
     journal: https://www.journals.uchicago.edu/doi/10.1086/730204
-    appendix: s/RGGVY_appendix_20220216.pdf
     data/code: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FAPWICK
     coverage: https://s.giannini.ucop.edu/uploads/giannini_public/17/e7/17e7e59c-40d7-4635-8ccf-7235e75975a2/v20n3_2.pdf
 - title: 'Social networks and technology adoption: Evidence from church mergers in the U.S. Midwest'
   authors: Andrew W. Stevens
-  pdf: s/Burlig_Stevens_Churches_published.pdf
+  pdf: s/Burlig_Stevens_Churches_published_with_appx.pdf
   year: 2024
   journal: '<em>American Journal of Agricultural Economics</em>, 106(3): 1141–1166'
   links:
     journal: https://onlinelibrary.wiley.com/doi/10.1111/ajae.12429
-    appendix: s/Burlig_Stevens_SNTA_appx.pdf
 - title: 'Low energy: Estimating electric vehicle electricity use'
   authors: James Bushnell, David Rapson, and Catherine Wolfram
   pdf: s/BRRW_PnP_with_Appx.pdf
@@ -100,22 +97,20 @@ publications:
     coverage: https://www.forbes.com/sites/ucenergy/2021/02/16/electrifying-transportation-may-be-harder-than-we-think/
 - title: Machine learning from schools about energy efficiency
   authors: Christopher Knittel, David Rapson, Mar Reguant, and Catherine Wolfram
-  pdf: s/BKRRW_Published.pdf
+  pdf: s/BKRRW_Published_with_appx.pdf
   year: 2020
   journal: '<em>Journal of the Association of Environmental and Resource Economists</em>, 7(6): 1181–1217'
   links:
     journal: https://www.journals.uchicago.edu/doi/10.1086/710606
-    appendix: s/BKRRW_Schools_OnlineAppendix.pdf
     data/code: https://doi.org/10.7910/DVN/NDAYCR
     coverage: https://www.forbes.com/sites/ucenergy/2017/09/27/cutting-energy-use-is-one-way-cash-strapped-schools-can-save-but-by-how-much/
 - title: Panel data and experimental design
   authors: Louis Preonas and Matt Woerman
-  pdf: s/BPW_JDE.pdf
+  pdf: s/BPW_JDE_with_appx.pdf
   year: 2020
   journal: '<em>Journal of Development Economics</em>, 144: 102458'
   links:
     journal: https://www.sciencedirect.com/science/article/abs/pii/S030438782030033X
-    appendix: s/BPW_power_calcs_appendix.pdf
     data/code: https://data.mendeley.com/datasets/vbcp9rh8yj/1
     coverage: http://blogs.worldbank.org/impactevaluations/weekly-links-january-6-power-calcs-dual-careers-substitutes-replication-and-more
 - title: 'Improving transparency in observational social science research: A pre-analysis plan approach'
