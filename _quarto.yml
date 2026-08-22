@@ -41,4 +41,5 @@ format:
     css: styles.css
     toc: false
     anchor-sections: false
+    include-in-header: _head.html
     include-after-body: _pdf-newtab.html
