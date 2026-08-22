@@ -40,7 +40,7 @@ sup { font-size: .7em; }
 ul.papers { list-style: none; padding-left: 0; }
 
 /* Footer */
-.nav-footer { color: #555; font-size: .85rem; }
+.nav-footer { color: #555; font-size: .85rem; line-height: 1.6; text-align: center; }
 
 /* Mobile: stack the homepage columns, circular headshot on top */
 @media (max-width: 767px) {

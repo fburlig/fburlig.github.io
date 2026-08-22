@@ -33,7 +33,7 @@ website:
         href: mailto:burlig@uchicago.edu
         aria-label: Email
   page-footer:
-    center: "[burlig@uchicago.edu](mailto:burlig@uchicago.edu) · Harris School of Public Policy · University of Chicago"
+    center: "[burlig@uchicago.edu](mailto:burlig@uchicago.edu)<br>Harris School of Public Policy<br>University of Chicago"
 
 format:
   html:
