@@ -4,13 +4,9 @@ toc: false
 ---
 
 <div class="paper">
-<span class="ptitle">Program evaluation</span><br>
+<span class="ptitle">(Advanced) program evaluation</span><br>
 <span class="meta">PPHA 34600 / PPHA 34610 · Harris School of Public Policy · 2019–present</span>
-
-MPP-level program evaluation: treatment effects, randomized experiments, selection on observables, instrumental variables, panel data, regression discontinuity, and machine learning for causal inference.
-
-<div class="links">[<a href="teaching/ppha34600-2020.html">Course materials</a>] <span class="meta">syllabi, lecture slides, and recorded lectures</span></div>
-<div class="links meta">Archived materials: [<a href="teaching/ppha34600-2019.html">2019 slides and syllabus</a>]</div>
+<div class="links"><a href="teaching/ppha34600-2020.html">2020 materials</a> · <a href="teaching/ppha34600-2019.html">2019 materials</a></div>
 </div>
 
 ## teaching resources
@@ -18,8 +14,5 @@ MPP-level program evaluation: treatment effects, randomized experiments, selecti
 <div class="paper">
 <span class="ptitle">Graduate econometrics notes</span><br>
 <span class="meta">ARE 212 · UC Berkeley · Spring 2016</span>
-
-Section notes, code, and exercises I wrote as the GSI for first-year PhD econometrics: R, matrix algebra and OLS, partitioned regression, hypothesis testing, GLS and MLE, asymptotics, robust and clustered standard errors, instrumental variables, power calculations, spatial data, and replication. They are retained here because they continue to be useful as econometrics references.
-
-<div class="links">[<a href="teaching/are212.html">Notes and code</a>]</div>
+<div class="links"><a href="teaching/are212.html">notes and code</a></div>
 </div>
