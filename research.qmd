@@ -8,25 +8,25 @@ toc: false
 <div class="paper">
 <span class="ptitle">Groundwater and crop choice in the short and long run</span><br>
 <span class="meta">with Louis Preonas and Matt Woerman · February 2026<br>Revise and resubmit, <em>Review of Economic Studies</em></span>
-<div class="links"><a href="s/20260203_BPW_groundwater_with_appx.pdf">draft</a> · <a href="https://www.nber.org/papers/w28706">nber</a> · <a href="https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/">coverage</a></div>
+<div class="links"><a href="s/20260203_BPW_groundwater_with_appx.pdf">draft</a> · <a href="https://www.nber.org/papers/w28706">nber</a> · <a href="coverage.html#groundwater-and-crop-choice-in-the-short">coverage</a></div>
 </div>
 
 <div class="paper">
 <span class="ptitle">Blackouts: The role of India's wholesale electricity market</span><br>
 <span class="meta">with Akshaya Jha <a href="https://www.aeaweb.org/journals/policies/random-author-order" title="randomized author order">(r)</a> Louis Preonas · February 2026<br>Conditionally accepted, <em>American Economic Journal: Economic Policy</em></span>
-<div class="links"><a href="s/20250815_JPB_Blackouts.pdf">draft</a> · <a href="https://www.nber.org/papers/w29610">nber</a> · <a href="https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india">coverage</a></div>
+<div class="links"><a href="s/20250815_JPB_Blackouts.pdf">draft</a> · <a href="https://www.nber.org/papers/w29610">nber</a> · <a href="https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india">summary</a> · <a href="coverage.html#blackouts-the-role-of-india-s-wholesale-">coverage</a></div>
 </div>
 
 <div class="paper">
 <span class="ptitle">Beliefs, forecasts, and investments: Experimental evidence from India</span><br>
 <span class="meta">with Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai · April 2026<br>Revise and resubmit, <em>American Economic Journal: Applied Economics</em></span>
-<div class="links"><a href="s/20260403_BJKLS_forecasts.pdf">draft</a> · <a href="https://www.nber.org/papers/w32173">nber</a> · <a href="https://www.socialscienceregistry.org/trials/8846">rct registry</a> · <a href="https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh">coverage</a></div>
+<div class="links"><a href="s/20260403_BJKLS_forecasts.pdf">draft</a> · <a href="https://www.nber.org/papers/w32173">nber</a> · <a href="https://www.socialscienceregistry.org/trials/8846">rct registry</a> · <a href="coverage.html#beliefs-forecasts-and-investments-experi">coverage</a></div>
 </div>
 
 <div class="paper">
 <span class="ptitle">If you build it, they may not come: Willingness to participate in managed EV charging</span><br>
 <span class="meta">with James Bushnell and David Rapson · April 2026</span>
-<div class="links"><a href="s/20260409_BBR_mangedcharging.pdf">draft</a> · <a href="https://www.nber.org/papers/w35086">nber</a> · <a href="https://www.socialscienceregistry.org/trials/14013">rct registry</a> · <a href="https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/">coverage</a></div>
+<div class="links"><a href="s/20260409_BBR_mangedcharging.pdf">draft</a> · <a href="https://www.nber.org/papers/w35086">nber</a> · <a href="https://www.socialscienceregistry.org/trials/14013">rct registry</a> · <a href="https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/">summary</a></div>
 </div>
 
 <div class="paper">
@@ -46,7 +46,7 @@ toc: false
 <div class="paper">
 <span class="ptitle">The value of clean water: Experimental evidence from rural India</span><br>
 <span class="meta">with Amir Jina and Anant Sudarshan · <em>American Economic Review</em>, 116(3): 1148–1187 · 2026</span>
-<div class="links"><a href="s/BJS_IndiaWater_Published_with_appx.pdf">paper</a> · <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20250278">journal</a> · <a href="https://www.openicpsr.org/openicpsr/project/238281/version/V1/view">data/code</a> · <a href="https://www.socialscienceregistry.org/trials/10545">rct registry</a> · <a href="https://wakelet.com/wake/txezHB5_a-FkRS5HvwEuV">coverage</a></div>
+<div class="links"><a href="s/BJS_IndiaWater_Published_with_appx.pdf">paper</a> · <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20250278">journal</a> · <a href="https://www.openicpsr.org/openicpsr/project/238281/version/V1/view">data/code</a> · <a href="https://www.socialscienceregistry.org/trials/10545">rct registry</a> · <a href="https://voxdev.org/topic/health/clean-water-india-delivering-water-viable-solution">summary</a> · <a href="coverage.html#the-value-of-clean-water-experimental-ev">coverage</a></div>
 </div>
 
 <div class="paper">
@@ -58,7 +58,7 @@ toc: false
 <div class="paper">
 <span class="ptitle">Out of the darkness and into the light? Development effects of rural electrification</span><br>
 <span class="meta">with Louis Preonas · <em>Journal of Political Economy</em>, 132(9): 2937–2971 · 2024</span>
-<div class="links"><a href="s/Burlig_Preonas_RGGVY_published_with_appx.pdf">paper</a> · <a href="https://www.journals.uchicago.edu/doi/10.1086/730204">journal</a> · <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FAPWICK">data/code</a> · <a href="https://s.giannini.ucop.edu/uploads/giannini_public/17/e7/17e7e59c-40d7-4635-8ccf-7235e75975a2/v20n3_2.pdf">coverage</a></div>
+<div class="links"><a href="s/Burlig_Preonas_RGGVY_published_with_appx.pdf">paper</a> · <a href="https://www.journals.uchicago.edu/doi/10.1086/730204">journal</a> · <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FAPWICK">data/code</a> · <a href="https://s.giannini.ucop.edu/uploads/giannini_public/17/e7/17e7e59c-40d7-4635-8ccf-7235e75975a2/v20n3_2.pdf">summary</a> · <a href="coverage.html#out-of-the-darkness-and-into-the-light-d">coverage</a></div>
 </div>
 
 <div class="paper">
@@ -70,25 +70,25 @@ toc: false
 <div class="paper">
 <span class="ptitle">Low energy: Estimating electric vehicle electricity use</span><br>
 <span class="meta">with James Bushnell, David Rapson, and Catherine Wolfram · <em>AEA Papers and Proceedings</em>, 111: 430–435 · 2021</span>
-<div class="links"><a href="s/BRRW_PnP_with_Appx.pdf">paper</a> · <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20211088">journal</a> · <a href="https://www.openicpsr.org/openicpsr/project/139481/version/V1/view">data/code</a> · <a href="https://www.forbes.com/sites/ucenergy/2021/02/16/electrifying-transportation-may-be-harder-than-we-think/">coverage</a></div>
+<div class="links"><a href="s/BRRW_PnP_with_Appx.pdf">paper</a> · <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20211088">journal</a> · <a href="https://www.openicpsr.org/openicpsr/project/139481/version/V1/view">data/code</a> · <a href="coverage.html#low-energy-estimating-electric-vehicle-e">coverage</a></div>
 </div>
 
 <div class="paper">
 <span class="ptitle">Machine learning from schools about energy efficiency</span><br>
 <span class="meta">with Christopher Knittel, David Rapson, Mar Reguant, and Catherine Wolfram · <em>Journal of the Association of Environmental and Resource Economists</em>, 7(6): 1181–1217 · 2020</span>
-<div class="links"><a href="s/BKRRW_Published_with_appx.pdf">paper</a> · <a href="https://www.journals.uchicago.edu/doi/10.1086/710606">journal</a> · <a href="https://doi.org/10.7910/DVN/NDAYCR">data/code</a> · <a href="https://www.forbes.com/sites/ucenergy/2017/09/27/cutting-energy-use-is-one-way-cash-strapped-schools-can-save-but-by-how-much/">coverage</a></div>
+<div class="links"><a href="s/BKRRW_Published_with_appx.pdf">paper</a> · <a href="https://www.journals.uchicago.edu/doi/10.1086/710606">journal</a> · <a href="https://doi.org/10.7910/DVN/NDAYCR">data/code</a> · <a href="coverage.html#machine-learning-from-schools-about-ener">coverage</a></div>
 </div>
 
 <div class="paper">
 <span class="ptitle">Panel data and experimental design</span><br>
 <span class="meta">with Louis Preonas and Matt Woerman · <em>Journal of Development Economics</em>, 144: 102458 · 2020</span>
-<div class="links"><a href="s/BPW_JDE_with_appx.pdf">paper</a> · <a href="https://www.sciencedirect.com/science/article/abs/pii/S030438782030033X">journal</a> · <a href="https://data.mendeley.com/datasets/vbcp9rh8yj/1">data/code</a> · <a href="http://blogs.worldbank.org/impactevaluations/weekly-links-january-6-power-calcs-dual-careers-substitutes-replication-and-more">coverage</a></div>
+<div class="links"><a href="s/BPW_JDE_with_appx.pdf">paper</a> · <a href="https://www.sciencedirect.com/science/article/abs/pii/S030438782030033X">journal</a> · <a href="https://data.mendeley.com/datasets/vbcp9rh8yj/1">data/code</a> · <a href="coverage.html#panel-data-and-experimental-design">coverage</a></div>
 </div>
 
 <div class="paper">
 <span class="ptitle">Improving transparency in observational social science research: A pre-analysis plan approach</span><br>
 <span class="meta"><em>Economics Letters</em>, 168: 56–60 · 2018</span>
-<div class="links"><a href="s/Burlig_EconomicsLetters_2018.pdf">paper</a> · <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165176518301277">journal</a> · <a href="https://blogs.worldbank.org/impactevaluations/weekly-links-april-27-improving-water-conservation-acceptance-rates-drop-below-3-using-pre-analysis">coverage</a></div>
+<div class="links"><a href="s/Burlig_EconomicsLetters_2018.pdf">paper</a> · <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165176518301277">journal</a> · <a href="coverage.html#improving-transparency-in-observational-">coverage</a></div>
 </div>
 
 ## selected work in progress

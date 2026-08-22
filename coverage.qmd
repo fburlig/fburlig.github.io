@@ -1,0 +1,51 @@
+---
+title: "coverage"
+toc: false
+---
+
+<p class="meta">Press, podcasts, and blog coverage, by paper. Links to papers and summaries are on the <a href="research.html">research page</a>.</p>
+
+<div class="paper" id="groundwater-and-crop-choice-in-the-short">
+<span class="ptitle">Groundwater and crop choice in the short and long run</span><br>
+<span class="links"><a href="https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/">Forbes post</a> · <a href="https://www.barrons.com/articles/water-shortages-threaten-the-economy-and-our-food-supply-51633354333">Barron's op-ed</a> · <a href="https://forecastdirect.podbean.com/e/groundwater-use-in-california-agriculture/">Forecast Direct podcast</a></span>
+</div>
+
+<div class="paper" id="blackouts-the-role-of-india-s-wholesale-">
+<span class="ptitle">Blackouts: The role of India's wholesale electricity market</span><br>
+<span class="links"><a href="https://www.ideasforindia.in/topics/governance/fixing-incentives-for-power-plants-to-reduce-outages.html">Ideas for India</a> · <a href="https://voxeu.org/article/reducing-electricity-blackouts-developing-countries">VoxEU</a></span>
+</div>
+
+<div class="paper" id="beliefs-forecasts-and-investments-experi">
+<span class="ptitle">Beliefs, forecasts, and investments: Experimental evidence from India</span><br>
+<span class="links"><a href="https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh">Media coverage</a></span>
+</div>
+
+<div class="paper" id="the-value-of-clean-water-experimental-ev">
+<span class="ptitle">The value of clean water: Experimental evidence from rural India</span><br>
+<span class="links"><a href="https://www.resources.org/resources-radio/valuing-access-to-drinking-water-in-india-with-fiona-burlig/">RFF Resources Radio</a> · <a href="https://www.aeaweb.org/research/clean-water-rural-india">AEA podcast</a> · <a href="https://wakelet.com/wake/txezHB5_a-FkRS5HvwEuV">Media coverage</a></span>
+</div>
+
+<div class="paper" id="out-of-the-darkness-and-into-the-light-d">
+<span class="ptitle">Out of the darkness and into the light? Development effects of rural electrification</span><br>
+<span class="links"><a href="https://voxdev.org/topic/energy-environment/does-rural-electrification-cause-economic-development">VoxDev</a> · <a href="http://www.ideasforindia.in/topics/macroeconomics/does-rural-electrification-cause-economic-development.html">Ideas for India</a> · <a href="http://spectrum.ieee.org/energywise/energy/policy/does-electrification-cause-economic-growth">IEEE Spectrum</a> · <a href="http://blogs.worldbank.org/developmenttalk/rural-electrification-how-much-does-sub-saharan-africa-need-grid">World Bank blog</a></span>
+</div>
+
+<div class="paper" id="low-energy-estimating-electric-vehicle-e">
+<span class="ptitle">Low energy: Estimating electric vehicle electricity use</span><br>
+<span class="links"><a href="https://www.forbes.com/sites/ucenergy/2021/02/16/electrifying-transportation-may-be-harder-than-we-think/">Forbes post</a> · <a href="https://energyathaas.wordpress.com/2021/02/16/electric-vehicle-owners-drive-less-than-we-thought/">EI@Haas blog</a> · <a href="https://www.axios.com/electric-vehicle-gas-powered-cars-f1748194-89fc-40eb-964f-391362c237bb.html">Axios</a> · <a href="https://www.caranddriver.com/news/a35498794/ev-owners-low-mileage-study/">Car and Driver</a> · <a href="https://www.eenews.net/energywire/stories/1063724557">E&E News</a> · <a href="https://thehill.com/policy/energy-environment/539059-electric-vehicles-are-poised-to-aid-biden-in-climate-fight">The Hill</a> · <a href="https://www.politico.com/newsletters/morning-energy/2021/02/08/ed-markey-on-the-green-new-deal-biden-793222">Politico</a> · <a href="https://www.utilitydive.com/news/electric-vehicles-could-be-imperfect-substitutes-for-gas-powered-cars-ne/594665/">Utility Dive</a> · <a href="https://earther.gizmodo.com/electric-vehicles-are-improving-so-fast-data-on-using-1846231596">Gizmodo</a> · <a href="https://www.greencarcongress.com/2021/02/20210209-nber.html">Green Car Congress</a> · <a href="https://www.greencarreports.com/news/1131232_teslas-cover-more-daily-miles-than-other-evs-are-they-better-ice-replacements">Green Car Reports</a> · <a href="https://jalopnik.com/ev-owners-drive-half-as-many-miles-as-other-drivers-st-1846270063">Jalopnik</a> · <a href="https://scitechdaily.com/electric-vehicles-are-driven-less-often-than-policymakers-think-half-as-much-as-conventional-cars/">SciTechDaily</a></span>
+</div>
+
+<div class="paper" id="machine-learning-from-schools-about-ener">
+<span class="ptitle">Machine learning from schools about energy efficiency</span><br>
+<span class="links"><a href="https://www.forbes.com/sites/ucenergy/2017/09/27/cutting-energy-use-is-one-way-cash-strapped-schools-can-save-but-by-how-much/">Forbes post</a> · <a href="https://energyathaas.wordpress.com/2017/10/02/energy-efficiency-in-schools-how-are-we-doing/">EI@Haas blog</a> · <a href="https://blogs.wsj.com/experts/2017/11/13/why-government-energy-efficiency-programs-sound-great-but-often-dont-work/">Wall Street Journal</a> · <a href="http://www.educationdive.com/news/study-energy-upgrades-in-schools-may-not-bring-expected-savings/506051/">EducationDive</a> · <a href="https://www.newswise.com/doescience/?article_id=681901">Newswise</a></span>
+</div>
+
+<div class="paper" id="panel-data-and-experimental-design">
+<span class="ptitle">Panel data and experimental design</span><br>
+<span class="links"><a href="http://blogs.worldbank.org/impactevaluations/weekly-links-january-6-power-calcs-dual-careers-substitutes-replication-and-more">Development Impact</a> · <a href="https://chrisblattman.com/2017/01/06/ipas-weekly-links-94/">IPA weekly links</a></span>
+</div>
+
+<div class="paper" id="improving-transparency-in-observational-">
+<span class="ptitle">Improving transparency in observational social science research: A pre-analysis plan approach</span><br>
+<span class="links"><a href="https://blogs.worldbank.org/impactevaluations/weekly-links-april-27-improving-water-conservation-acceptance-rates-drop-below-3-using-pre-analysis">Development Impact</a></span>
+</div>

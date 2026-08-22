@@ -11,7 +11,11 @@ FEATURED_ORDER = [  # homepage order; must match title prefixes in papers.yaml
     "Blackouts",
     "Beliefs, forecasts, and investments",
 ]
-LINK_ORDER = ["journal", "handbook", "nber", "appendix", "data/code", "rct registry", "coverage"]
+LINK_ORDER = ["journal", "handbook", "nber", "appendix", "data/code", "rct registry", "summary"]
+
+import re
+def slug(p):
+    return re.sub(r"[^a-z0-9]+", "-", p["title"].lower()).strip("-")[:40]
 
 def authors(p):
     a = f"with {p['authors']}" if p.get("authors") else ""
@@ -23,6 +27,7 @@ def links(p, pdf_label="paper"):
     if p.get("pdf"): L.append(f'<a href="{p["pdf"]}">{pdf_label}</a>')
     for k in LINK_ORDER:
         if k in (p.get("links") or {}): L.append(f'<a href="{p["links"][k]}">{k}</a>')
+    if p.get("coverage"): L.append(f'<a href="coverage.html#{slug(p)}">coverage</a>')
     return f'<div class="links">{" · ".join(L)}</div>' if L else ""
 
 def entry(p, tail, pdf_label="paper"):
@@ -41,6 +46,16 @@ for p in D["work_in_progress"]:
 notes = [p["note"] for s in D for p in D[s] if p.get("note")]
 if notes: out.append('<p class="meta footnote">† ' + "; ".join(sorted(set(notes))) + "</p>\n")
 open("research.qmd", "w").write("\n".join(out))
+
+# ---------- coverage.qmd ----------
+cov = ['---\ntitle: "coverage"\ntoc: false\n---\n',
+       '<p class="meta">Press, podcasts, and blog coverage, by paper. Links to papers and summaries are on the <a href="research.html">research page</a>.</p>\n']
+for sec in ("working_papers", "publications"):
+    for p in D[sec]:
+        if not p.get("coverage"): continue
+        items = " · ".join(f'<a href="{list(c.values())[0]}">{list(c.keys())[0]}</a>' for c in p["coverage"])
+        cov.append(f'<div class="paper" id="{slug(p)}">\n<span class="ptitle">{p["title"]}</span><br>\n<span class="links">{items}</span>\n</div>\n')
+open("coverage.qmd", "w").write("\n".join(cov))
 
 allp = D["working_papers"] + D["publications"]
 lines = []; fn = False

@@ -1,5 +1,5 @@
 # Single source of truth for research. build.py renders index.html and research.html from this.
-# Fields: title, authors (omit yourself), pdf, year, journal/status, links (label: url), featured (true/false), note
+# Fields: title, authors (omit yourself), pdf, year/date, journal/status, featured, links {journal, handbook, nber, data/code, rct registry, summary}, coverage [ {Outlet: url}, ... ]
 working_papers:
 - title: Groundwater and crop choice in the short and long run
   authors: Louis Preonas and Matt Woerman
@@ -9,7 +9,10 @@ working_papers:
   featured: true
   links:
     nber: https://www.nber.org/papers/w28706
-    coverage: https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/
+  coverage:
+  - Forbes post: https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/
+  - Barron's op-ed: https://www.barrons.com/articles/water-shortages-threaten-the-economy-and-our-food-supply-51633354333
+  - Forecast Direct podcast: https://forecastdirect.podbean.com/e/groundwater-use-in-california-agriculture/
 - title: 'Blackouts: The role of India''s wholesale electricity market'
   authors: Akshaya Jha <a href="https://www.aeaweb.org/journals/policies/random-author-order" title="randomized author order">(r)</a> Louis Preonas
   pdf: s/20250815_JPB_Blackouts.pdf
@@ -17,8 +20,11 @@ working_papers:
   status: 'Conditionally accepted, <em>American Economic Journal: Economic Policy</em>'
   links:
     nber: https://www.nber.org/papers/w29610
-    coverage: https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india
+    summary: https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india
   featured: true
+  coverage:
+  - Ideas for India: https://www.ideasforindia.in/topics/governance/fixing-incentives-for-power-plants-to-reduce-outages.html
+  - VoxEU: https://voxeu.org/article/reducing-electricity-blackouts-developing-countries
 - title: 'Beliefs, forecasts, and investments: Experimental evidence from India'
   authors: Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai
   pdf: s/20260403_BJKLS_forecasts.pdf
@@ -27,16 +33,17 @@ working_papers:
   featured: true
   links:
     nber: https://www.nber.org/papers/w32173
-    coverage: https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh
     rct registry: https://www.socialscienceregistry.org/trials/8846
+  coverage:
+  - Media coverage: https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh
 - title: 'If you build it, they may not come: Willingness to participate in managed EV charging'
   authors: James Bushnell and David Rapson
   pdf: s/20260409_BBR_mangedcharging.pdf
   date: April 2026
   links:
     nber: https://www.nber.org/papers/w35086
-    coverage: https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/
     rct registry: https://www.socialscienceregistry.org/trials/14013
+    summary: https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/
 - title: 'Insurance and the demand for adaptation: Theory and experimental evidence from West Bengal'
   authors: Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane
   pdf: s/20260610_BDGKL_InsureAdapt.pdf
@@ -61,8 +68,12 @@ publications:
   links:
     journal: https://www.aeaweb.org/articles?id=10.1257/aer.20250278
     data/code: https://www.openicpsr.org/openicpsr/project/238281/version/V1/view
-    coverage: https://wakelet.com/wake/txezHB5_a-FkRS5HvwEuV
     rct registry: https://www.socialscienceregistry.org/trials/10545
+    summary: https://voxdev.org/topic/health/clean-water-india-delivering-water-viable-solution
+  coverage:
+  - RFF Resources Radio: https://www.resources.org/resources-radio/valuing-access-to-drinking-water-in-india-with-fiona-burlig/
+  - AEA podcast: https://www.aeaweb.org/research/clean-water-rural-india
+  - Media coverage: https://wakelet.com/wake/txezHB5_a-FkRS5HvwEuV
 - title: Reforming energy subsidies
   authors: Anant Sudarshan
   pdf: s/BS_handbook_published.pdf
@@ -78,7 +89,12 @@ publications:
   links:
     journal: https://www.journals.uchicago.edu/doi/10.1086/730204
     data/code: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FAPWICK
-    coverage: https://s.giannini.ucop.edu/uploads/giannini_public/17/e7/17e7e59c-40d7-4635-8ccf-7235e75975a2/v20n3_2.pdf
+    summary: https://s.giannini.ucop.edu/uploads/giannini_public/17/e7/17e7e59c-40d7-4635-8ccf-7235e75975a2/v20n3_2.pdf
+  coverage:
+  - VoxDev: https://voxdev.org/topic/energy-environment/does-rural-electrification-cause-economic-development
+  - Ideas for India: http://www.ideasforindia.in/topics/macroeconomics/does-rural-electrification-cause-economic-development.html
+  - IEEE Spectrum: http://spectrum.ieee.org/energywise/energy/policy/does-electrification-cause-economic-growth
+  - World Bank blog: http://blogs.worldbank.org/developmenttalk/rural-electrification-how-much-does-sub-saharan-africa-need-grid
 - title: 'Social networks and technology adoption: Evidence from church mergers in the U.S. Midwest'
   authors: Andrew W. Stevens
   pdf: s/Burlig_Stevens_Churches_published_with_appx.pdf
@@ -94,7 +110,20 @@ publications:
   links:
     journal: https://www.aeaweb.org/articles?id=10.1257/pandp.20211088
     data/code: https://www.openicpsr.org/openicpsr/project/139481/version/V1/view
-    coverage: https://www.forbes.com/sites/ucenergy/2021/02/16/electrifying-transportation-may-be-harder-than-we-think/
+  coverage:
+  - Forbes post: https://www.forbes.com/sites/ucenergy/2021/02/16/electrifying-transportation-may-be-harder-than-we-think/
+  - EI@Haas blog: https://energyathaas.wordpress.com/2021/02/16/electric-vehicle-owners-drive-less-than-we-thought/
+  - Axios: https://www.axios.com/electric-vehicle-gas-powered-cars-f1748194-89fc-40eb-964f-391362c237bb.html
+  - Car and Driver: https://www.caranddriver.com/news/a35498794/ev-owners-low-mileage-study/
+  - E&E News: https://www.eenews.net/energywire/stories/1063724557
+  - The Hill: https://thehill.com/policy/energy-environment/539059-electric-vehicles-are-poised-to-aid-biden-in-climate-fight
+  - Politico: https://www.politico.com/newsletters/morning-energy/2021/02/08/ed-markey-on-the-green-new-deal-biden-793222
+  - Utility Dive: https://www.utilitydive.com/news/electric-vehicles-could-be-imperfect-substitutes-for-gas-powered-cars-ne/594665/
+  - Gizmodo: https://earther.gizmodo.com/electric-vehicles-are-improving-so-fast-data-on-using-1846231596
+  - Green Car Congress: https://www.greencarcongress.com/2021/02/20210209-nber.html
+  - Green Car Reports: https://www.greencarreports.com/news/1131232_teslas-cover-more-daily-miles-than-other-evs-are-they-better-ice-replacements
+  - Jalopnik: https://jalopnik.com/ev-owners-drive-half-as-many-miles-as-other-drivers-st-1846270063
+  - SciTechDaily: https://scitechdaily.com/electric-vehicles-are-driven-less-often-than-policymakers-think-half-as-much-as-conventional-cars/
 - title: Machine learning from schools about energy efficiency
   authors: Christopher Knittel, David Rapson, Mar Reguant, and Catherine Wolfram
   pdf: s/BKRRW_Published_with_appx.pdf
@@ -103,7 +132,12 @@ publications:
   links:
     journal: https://www.journals.uchicago.edu/doi/10.1086/710606
     data/code: https://doi.org/10.7910/DVN/NDAYCR
-    coverage: https://www.forbes.com/sites/ucenergy/2017/09/27/cutting-energy-use-is-one-way-cash-strapped-schools-can-save-but-by-how-much/
+  coverage:
+  - Forbes post: https://www.forbes.com/sites/ucenergy/2017/09/27/cutting-energy-use-is-one-way-cash-strapped-schools-can-save-but-by-how-much/
+  - EI@Haas blog: https://energyathaas.wordpress.com/2017/10/02/energy-efficiency-in-schools-how-are-we-doing/
+  - Wall Street Journal: https://blogs.wsj.com/experts/2017/11/13/why-government-energy-efficiency-programs-sound-great-but-often-dont-work/
+  - EducationDive: http://www.educationdive.com/news/study-energy-upgrades-in-schools-may-not-bring-expected-savings/506051/
+  - Newswise: https://www.newswise.com/doescience/?article_id=681901
 - title: Panel data and experimental design
   authors: Louis Preonas and Matt Woerman
   pdf: s/BPW_JDE_with_appx.pdf
@@ -112,7 +146,9 @@ publications:
   links:
     journal: https://www.sciencedirect.com/science/article/abs/pii/S030438782030033X
     data/code: https://data.mendeley.com/datasets/vbcp9rh8yj/1
-    coverage: http://blogs.worldbank.org/impactevaluations/weekly-links-january-6-power-calcs-dual-careers-substitutes-replication-and-more
+  coverage:
+  - Development Impact: http://blogs.worldbank.org/impactevaluations/weekly-links-january-6-power-calcs-dual-careers-substitutes-replication-and-more
+  - IPA weekly links: https://chrisblattman.com/2017/01/06/ipas-weekly-links-94/
 - title: 'Improving transparency in observational social science research: A pre-analysis plan approach'
   authors: ''
   pdf: s/Burlig_EconomicsLetters_2018.pdf
@@ -120,7 +156,8 @@ publications:
   journal: '<em>Economics Letters</em>, 168: 56–60'
   links:
     journal: https://www.sciencedirect.com/science/article/abs/pii/S0165176518301277
-    coverage: https://blogs.worldbank.org/impactevaluations/weekly-links-april-27-improving-water-conservation-acceptance-rates-drop-below-3-using-pre-analysis
+  coverage:
+  - Development Impact: https://blogs.worldbank.org/impactevaluations/weekly-links-april-27-improving-water-conservation-acceptance-rates-drop-below-3-using-pre-analysis
 work_in_progress:
 - title: 'Incentives for climate adaptation: Experimental evidence from Odisha'
   authors: Manzoor Dar, Jack Glaser, and Anant Sudarshan
