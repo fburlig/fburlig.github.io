@@ -63,6 +63,7 @@ allp = D["working_papers"] + D["publications"]
 def feat(pre):
     p = next(p for p in allp if p["title"].startswith(pre))
     st = p.get("status") or (p["journal"].split(",")[0] if p.get("journal") else "")
+    st = st.replace("Revise and resubmit", "R&amp;R")
     t = f'<a href="{p["pdf"]}">{p["title"]}</a>' if p.get("pdf") else p["title"]
     rows = [f'<span class="ftitle">{t}</span>']
     if p.get("authors"): rows.append(f'<span class="meta">{authors(p)}</span>')
