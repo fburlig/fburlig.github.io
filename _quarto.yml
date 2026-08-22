@@ -10,7 +10,7 @@ website:
   title: "fiona burlig"
   description: "Fiona Burlig is an assistant professor at the Harris School of Public Policy, University of Chicago, working on energy, environmental, and development economics."
   site-url: https://fionaburlig.com
-  favicon: favicon.svg
+  favicon: favicon.png
   search: false
   open-graph: true
   twitter-card: false
