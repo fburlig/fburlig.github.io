@@ -9,7 +9,7 @@ toc: false
 
 I'm **Fiona Burlig**, an assistant professor at the Harris School of Public Policy at the University of Chicago. I'm an applied microeconomist studying energy, the environment, agriculture, and development.
 
-<p class="affil"><a href="https://www.nber.org/people/fiona_burlig">NBER</a> · <a href="https://climate.uchicago.edu/people/fiona-burlig/">ICSG</a> · <a href="https://epic.uchicago.in/people/fiona-burlig/">EPIC-India</a> · <a href="https://www.ibread.org/who-we-are">BREAD</a> · <a href="https://www.povertyactionlab.org/person/burlig">J-PAL</a> · <a href="https://www.theigc.org/people/fiona-burlig">IGC</a> · ODPIC</p>
+<p class="affil">Affiliations: <a href="https://www.nber.org/people/fiona_burlig">NBER</a> · <a href="https://climate.uchicago.edu/people/fiona-burlig/">ICSG</a> · <a href="https://epic.uchicago.in/people/fiona-burlig/">EPIC-India</a> · <a href="https://www.ibread.org/who-we-are">BREAD</a> · <a href="https://www.povertyactionlab.org/person/burlig">J-PAL</a> · <a href="https://www.theigc.org/people/fiona-burlig">IGC</a> · ODPIC</p>
 
 ### selected current research
 
