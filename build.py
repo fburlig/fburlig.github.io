@@ -81,7 +81,7 @@ index = f"""<h1>Fiona Burlig</h1>
 </ul>
 
 <h2>more</h2>
-<p class="inline"><a href="/cv.pdf">CV</a><a href="https://scholar.google.com/citations?user=XXXX">Google Scholar</a><a href="https://github.com/fburlig">GitHub</a><a href="mailto:burlig@uchicago.edu">contact</a></p>
+<p class="inline"><a href="/cv.pdf">CV</a><a href="https://scholar.google.com/citations?user=73OXPLsAAAAJ">Google Scholar</a><a href="https://github.com/fburlig">GitHub</a><a href="mailto:burlig@uchicago.edu">contact</a></p>
 <p class="meta">NBER Faculty Research Fellow (EEE and DEV); affiliate of J-PAL, BREAD, and the IGC; Deputy Faculty Director of EPIC-India and the Odisha Data, Policy, and Innovation Centre.</p>
 """
 open("index.html", "w").write(page("Fiona Burlig", "home", index))
