@@ -62,8 +62,7 @@ open("coverage.qmd", "w").write("\n".join(cov))
 allp = D["working_papers"] + D["publications"]
 def feat(pre):
     p = next(p for p in allp if p["title"].startswith(pre))
-    st = p.get("status") or (f"{p['journal']}" if p.get("journal") else "")
-    lab = "paper" if p.get("journal") else "draft"
+    st = p.get("status") or (p["journal"].split(",")[0] if p.get("journal") else "")
     t = f'<a href="{p["pdf"]}">{p["title"]}</a>' if p.get("pdf") else p["title"]
     rows = [f'<span class="ftitle">{t}</span>']
     if p.get("authors"): rows.append(f'<span class="meta">{authors(p)}</span>')
