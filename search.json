@@ -1,17 +1,52 @@
 [
   {
+    "objectID": "ppha-34600-2020.html",
+    "href": "ppha-34600-2020.html",
+    "title": "fiona burlig",
+    "section": "",
+    "text": "Moved to teaching/ppha34600-2020."
+  },
+  {
+    "objectID": "coverage.html",
+    "href": "coverage.html",
+    "title": "coverage",
+    "section": "",
+    "text": "Press, podcasts, and blog coverage, by paper. Links to papers and summaries are on the research page.\n\n\nGroundwater and crop choice in the short and long run Forbes post · Barron’s op-ed · Forecast Direct podcast\n\n\nBlackouts: The role of India’s wholesale electricity market Ideas for India · VoxEU\n\n\nBeliefs, forecasts, and investments: Experimental evidence from India Media coverage\n\n\nThe value of clean water: Experimental evidence from rural India RFF Resources Radio · AEA podcast · Media coverage\n\n\nOut of the darkness and into the light? Development effects of rural electrification VoxDev · Ideas for India · IEEE Spectrum · World Bank blog\n\n\nLow energy: Estimating electric vehicle electricity use Forbes post · EI@Haas blog · Axios · Car and Driver · E&E News · The Hill · Politico · Utility Dive · Gizmodo · Green Car Congress · Green Car Reports · Jalopnik · SciTechDaily\n\n\nMachine learning from schools about energy efficiency Forbes post · EI@Haas blog · Wall Street Journal · EducationDive · Newswise\n\n\nPanel data and experimental design Development Impact · IPA weekly links\n\n\nImproving transparency in observational social science research: A pre-analysis plan approach Development Impact"
+  },
+  {
+    "objectID": "teaching/ppha34600-2020.html",
+    "href": "teaching/ppha34600-2020.html",
+    "title": "PPHA 34600: Program evaluation (2020)",
+    "section": "",
+    "text": "Archived course materials · Spring 2020\nI teach MPP-level program evaluation at the University of Chicago in the spring quarter.\nThe class is split into three sections, each with a distinct topical focus. Section 1 has a general applied micro focus. Section 2 has an international development focus. Section 3 has an energy and environment focus. The below materials are broken out into sections where applicable.\nDue to the COVID-19 pandemic, I conducted the course entirely online. My course materials, including syllabi, lecture slides, and pre-recorded videos can be found here. PDFs are broken out by section where applicable. There are definitely mistakes remaining (caveat econometricus). If you find one, let me know!"
+  },
+  {
+    "objectID": "teaching/ppha34600-2020.html#syllabus",
+    "href": "teaching/ppha34600-2020.html#syllabus",
+    "title": "PPHA 34600: Program evaluation (2020)",
+    "section": "syllabus",
+    "text": "syllabus\n\n\nPPHA 34600 Sec 01 Syllabus (2020)\n\n\nPPHA 34600 Sec 02 Syllabus (2020)\n\n\nPPHA 34600 Sec 03 Syllabus (2020)"
+  },
+  {
+    "objectID": "teaching/ppha34600-2020.html#lecture-notes",
+    "href": "teaching/ppha34600-2020.html#lecture-notes",
+    "title": "PPHA 34600: Program evaluation (2020)",
+    "section": "lecture notes",
+    "text": "lecture notes\n\n\nLecture 01: Why program evaluation? [Videos, PDF]\n\n\nLecture 02: Treatment parameters and regression [Videos01, PDF01, Videos02, PDF02, Videos03, PDF03]\n\n\nLecture 03: Randomized controlled trials I [Videos01, PDF01, Videos02, PDF02, Videos03, PDF03]\n\n\nLecture 04: Randomized controlled trials II [Videos, PDF]\n\n\nLecture 05: Randomized controlled trials III [Videos, PDF]\n\n\nLecture 06: Evaluation of evaluations [Videos, PDF]\n\n\nLecture 07: Selection on observables [Videos01, PDF01, Videos02, PDF02/03, Videos03]\n\n\nLecture 08: Instrumental variables I [Videos, PDF]\n\n\nLecture 09: Instrumental variables II [Videos, PDF, PDF01, PDF02, PDF03]\n\n\nLecture 10: Instrumental variables III [Videos, PDF]\n\n\nLecture 11: Panel data I [Videos, PDF, Videos01, PDF01, Videos02, PDF02, Videos03, PDF03]\n\n\nLecture 12: Panel data II [Videos, PDF, Videos01, PDF01, Videos02/03, PDF02/03]\n\n\nLecture 13: Panel data III [Videos, Videos01, PDF01, Videos02, PDF02, Videos03, PDF03]\n\n\nLecture 14: Regression discontinuity I [Videos, PDF, Videos01, PDF01, Videos02, PDF02, Videos03, PDF03]\n\n\nLecture 15: Regression discontinuity II [Videos, PDF]\n\n\nLecture 16: Big data and machine learning [Videos, PDF]\n\n\nLecture 17: Policy lab I [PDF01, PDF02/03. No videos — was conducted live.]\n\n\nLecture 18: Policy lab II [PDF01, PDF02/03 No videos — was conducted live.]"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "research",
     "section": "",
-    "text": "Groundwater and crop choice in the short and long run with Louis Preonas and Matt Woerman · February 2026Revise and resubmit, Review of Economic Studies\n\ndraft · nber · coverage\n\n\n\nBlackouts: The role of India’s wholesale electricity market with Akshaya Jha (r) Louis Preonas · February 2026Conditionally accepted, American Economic Journal: Economic Policy\n\ndraft · nber · summary · coverage\n\n\n\nBeliefs, forecasts, and investments: Experimental evidence from India with Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai · April 2026Revise and resubmit, American Economic Journal: Applied Economics\n\ndraft · nber · rct registry · coverage\n\n\n\nIf you build it, they may not come: Willingness to participate in managed EV charging with James Bushnell and David Rapson · April 2026\n\ndraft · nber · rct registry · summary\n\n\n\nInsurance and the demand for adaptation: Theory and experimental evidence from West Bengal with Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane · June 2026\n\ndraft · rct registry\n\n\n\nPaying for power with Anant Sudarshan · June 2026\n\ndraft · rct registry"
+    "text": "Groundwater and crop choice in the short and long run with Louis Preonas and Matt Woerman · February 2026Revise and resubmit, Review of Economic Studies\n\ndraft · nber · coverage\n\n\n\nBlackouts: The role of India’s wholesale electricity market with Akshaya Jha (r) Louis Preonas · February 2026Conditionally accepted, American Economic Journal: Economic Policy\n\ndraft · nber · summary · coverage\n\n\n\nBeliefs, forecasts, and investments: Experimental evidence from India with Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai · April 2026Revise and resubmit, American Economic Journal: Applied Economics\n\ndraft · nber · rct registry · coverage\n\n\n\nIf you build it, they may not come: Willingness to participate in managed EV charging with James Bushnell and David Rapson · April 2026\n\ndraft · nber · rct registry · summary\n\n\n\nInsurance and the demand for adaptation: Theory and experimental evidence from West Bengal with Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane · June 2026\n\ndraft · rct registry\n\n\n\nPaying for power with Anant Sudarshan · June 2026\n\ndraft · rct registry\n\n\n\nThe burden of flood risk with Jack Glaser and Anant Sudarshan · September 2026\n\ndraft"
   },
   {
     "objectID": "research.html#working-papers",
     "href": "research.html#working-papers",
     "title": "research",
     "section": "",
-    "text": "Groundwater and crop choice in the short and long run with Louis Preonas and Matt Woerman · February 2026Revise and resubmit, Review of Economic Studies\n\ndraft · nber · coverage\n\n\n\nBlackouts: The role of India’s wholesale electricity market with Akshaya Jha (r) Louis Preonas · February 2026Conditionally accepted, American Economic Journal: Economic Policy\n\ndraft · nber · summary · coverage\n\n\n\nBeliefs, forecasts, and investments: Experimental evidence from India with Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai · April 2026Revise and resubmit, American Economic Journal: Applied Economics\n\ndraft · nber · rct registry · coverage\n\n\n\nIf you build it, they may not come: Willingness to participate in managed EV charging with James Bushnell and David Rapson · April 2026\n\ndraft · nber · rct registry · summary\n\n\n\nInsurance and the demand for adaptation: Theory and experimental evidence from West Bengal with Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane · June 2026\n\ndraft · rct registry\n\n\n\nPaying for power with Anant Sudarshan · June 2026\n\ndraft · rct registry"
+    "text": "Groundwater and crop choice in the short and long run with Louis Preonas and Matt Woerman · February 2026Revise and resubmit, Review of Economic Studies\n\ndraft · nber · coverage\n\n\n\nBlackouts: The role of India’s wholesale electricity market with Akshaya Jha (r) Louis Preonas · February 2026Conditionally accepted, American Economic Journal: Economic Policy\n\ndraft · nber · summary · coverage\n\n\n\nBeliefs, forecasts, and investments: Experimental evidence from India with Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai · April 2026Revise and resubmit, American Economic Journal: Applied Economics\n\ndraft · nber · rct registry · coverage\n\n\n\nIf you build it, they may not come: Willingness to participate in managed EV charging with James Bushnell and David Rapson · April 2026\n\ndraft · nber · rct registry · summary\n\n\n\nInsurance and the demand for adaptation: Theory and experimental evidence from West Bengal with Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane · June 2026\n\ndraft · rct registry\n\n\n\nPaying for power with Anant Sudarshan · June 2026\n\ndraft · rct registry\n\n\n\nThe burden of flood risk with Jack Glaser and Anant Sudarshan · September 2026\n\ndraft"
   },
   {
     "objectID": "research.html#publications",
@@ -26,6 +61,27 @@
     "title": "research",
     "section": "selected work in progress",
     "text": "selected work in progress\n\nIncentives for climate adaptation: Experimental evidence from Odisha with Manzoor Dar, Jack Glaser, and Anant Sudarshan\n\n\nForecasts at scale: General equilibrium impacts of climate adaptation with Amir Jina, Erin Kelley, and Gregory Lane\n\nrct registry\n\n\n\nGroundwater in a changing climate with R. Aaron Hrozencik (r) Louis Preonas (r) Matt Woerman"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "fiona burlig",
+    "section": "",
+    "text": "I’m Fiona Burlig, an assistant professor at the Harris School of Public Policy at the University of Chicago. I’m an applied microeconomist working at the intersection of development, energy/environment, and agriculture.\n\nAffiliations: NBER · ICSG · EPIC-India · BREAD · J-PAL · IGC · ODPIC\n\n\nselected current research\n\nGroundwater and crop choice in the short and long run with Louis Preonas and Matt Woerman R&R, Review of Economic Studies\n\n\nBeliefs, forecasts, and investments: Experimental evidence from India with Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai R&R, American Economic Journal: Applied Economics\n\n\nInsurance and the demand for adaptation: Theory and experimental evidence from West Bengal with Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane\n\n\nPaying for power with Anant Sudarshan\n\n\n\nselected publications\n\nThe value of clean water: Experimental evidence from rural India with Amir Jina and Anant Sudarshan American Economic Review\n\n\nOut of the darkness and into the light? Development effects of rural electrification with Louis Preonas Journal of Political Economy"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "teaching",
+    "section": "",
+    "text": "(Advanced) program evaluation PPHA 34600 / PPHA 34610 · Harris School of Public Policy · 2019–present\n\n2020 materials · 2019 materials"
+  },
+  {
+    "objectID": "teaching.html#teaching-resources",
+    "href": "teaching.html#teaching-resources",
+    "title": "teaching",
+    "section": "teaching resources",
+    "text": "teaching resources\n\nGraduate econometrics notes ARE 212 · UC Berkeley · Spring 2016\n\nnotes and code"
   },
   {
     "objectID": "teaching/are212.html",
@@ -54,62 +110,6 @@
     "title": "Graduate econometrics notes",
     "section": "other useful stuff",
     "text": "other useful stuff\n\nGoogle’s R style guide\n\n\nRStudio’s cheat sheets (particularly helpful: the RStudio IDE one, the Data Visualization one, and the Data Wrangling one)\n\n\nSwirl: R tutorials"
-  },
-  {
-    "objectID": "coverage.html",
-    "href": "coverage.html",
-    "title": "coverage",
-    "section": "",
-    "text": "Press, podcasts, and blog coverage, by paper. Links to papers and summaries are on the research page.\n\n\nGroundwater and crop choice in the short and long run Forbes post · Barron’s op-ed · Forecast Direct podcast\n\n\nBlackouts: The role of India’s wholesale electricity market Ideas for India · VoxEU\n\n\nBeliefs, forecasts, and investments: Experimental evidence from India Media coverage\n\n\nThe value of clean water: Experimental evidence from rural India RFF Resources Radio · AEA podcast · Media coverage\n\n\nOut of the darkness and into the light? Development effects of rural electrification VoxDev · Ideas for India · IEEE Spectrum · World Bank blog\n\n\nLow energy: Estimating electric vehicle electricity use Forbes post · EI@Haas blog · Axios · Car and Driver · E&E News · The Hill · Politico · Utility Dive · Gizmodo · Green Car Congress · Green Car Reports · Jalopnik · SciTechDaily\n\n\nMachine learning from schools about energy efficiency Forbes post · EI@Haas blog · Wall Street Journal · EducationDive · Newswise\n\n\nPanel data and experimental design Development Impact · IPA weekly links\n\n\nImproving transparency in observational social science research: A pre-analysis plan approach Development Impact"
-  },
-  {
-    "objectID": "ppha-34600-2020.html",
-    "href": "ppha-34600-2020.html",
-    "title": "fiona burlig",
-    "section": "",
-    "text": "Moved to teaching/ppha34600-2020."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "fiona burlig",
-    "section": "",
-    "text": "I’m Fiona Burlig, an assistant professor at the Harris School of Public Policy at the University of Chicago. I’m an applied microeconomist working at the intersection of development, energy/environment, and agriculture.\n\nAffiliations: NBER · ICSG · EPIC-India · BREAD · J-PAL · IGC · ODPIC\n\n\nselected current research\n\nGroundwater and crop choice in the short and long run with Louis Preonas and Matt Woerman R&R, Review of Economic Studies\n\n\nBeliefs, forecasts, and investments: Experimental evidence from India with Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai R&R, American Economic Journal: Applied Economics\n\n\nInsurance and the demand for adaptation: Theory and experimental evidence from West Bengal with Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane\n\n\nPaying for power with Anant Sudarshan\n\n\n\nselected publications\n\nThe value of clean water: Experimental evidence from rural India with Amir Jina and Anant Sudarshan American Economic Review\n\n\nOut of the darkness and into the light? Development effects of rural electrification with Louis Preonas Journal of Political Economy"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "teaching",
-    "section": "",
-    "text": "(Advanced) program evaluation PPHA 34600 / PPHA 34610 · Harris School of Public Policy · 2019–present\n\n2020 materials · 2019 materials"
-  },
-  {
-    "objectID": "teaching.html#teaching-resources",
-    "href": "teaching.html#teaching-resources",
-    "title": "teaching",
-    "section": "teaching resources",
-    "text": "teaching resources\n\nGraduate econometrics notes ARE 212 · UC Berkeley · Spring 2016\n\nnotes and code"
-  },
-  {
-    "objectID": "teaching/ppha34600-2020.html",
-    "href": "teaching/ppha34600-2020.html",
-    "title": "PPHA 34600: Program evaluation (2020)",
-    "section": "",
-    "text": "Archived course materials · Spring 2020\nI teach MPP-level program evaluation at the University of Chicago in the spring quarter.\nThe class is split into three sections, each with a distinct topical focus. Section 1 has a general applied micro focus. Section 2 has an international development focus. Section 3 has an energy and environment focus. The below materials are broken out into sections where applicable.\nDue to the COVID-19 pandemic, I conducted the course entirely online. My course materials, including syllabi, lecture slides, and pre-recorded videos can be found here. PDFs are broken out by section where applicable. There are definitely mistakes remaining (caveat econometricus). If you find one, let me know!"
-  },
-  {
-    "objectID": "teaching/ppha34600-2020.html#syllabus",
-    "href": "teaching/ppha34600-2020.html#syllabus",
-    "title": "PPHA 34600: Program evaluation (2020)",
-    "section": "syllabus",
-    "text": "syllabus\n\n\nPPHA 34600 Sec 01 Syllabus (2020)\n\n\nPPHA 34600 Sec 02 Syllabus (2020)\n\n\nPPHA 34600 Sec 03 Syllabus (2020)"
-  },
-  {
-    "objectID": "teaching/ppha34600-2020.html#lecture-notes",
-    "href": "teaching/ppha34600-2020.html#lecture-notes",
-    "title": "PPHA 34600: Program evaluation (2020)",
-    "section": "lecture notes",
-    "text": "lecture notes\n\n\nLecture 01: Why program evaluation? [Videos, PDF]\n\n\nLecture 02: Treatment parameters and regression [Videos01, PDF01, Videos02, PDF02, Videos03, PDF03]\n\n\nLecture 03: Randomized controlled trials I [Videos01, PDF01, Videos02, PDF02, Videos03, PDF03]\n\n\nLecture 04: Randomized controlled trials II [Videos, PDF]\n\n\nLecture 05: Randomized controlled trials III [Videos, PDF]\n\n\nLecture 06: Evaluation of evaluations [Videos, PDF]\n\n\nLecture 07: Selection on observables [Videos01, PDF01, Videos02, PDF02/03, Videos03]\n\n\nLecture 08: Instrumental variables I [Videos, PDF]\n\n\nLecture 09: Instrumental variables II [Videos, PDF, PDF01, PDF02, PDF03]\n\n\nLecture 10: Instrumental variables III [Videos, PDF]\n\n\nLecture 11: Panel data I [Videos, PDF, Videos01, PDF01, Videos02, PDF02, Videos03, PDF03]\n\n\nLecture 12: Panel data II [Videos, PDF, Videos01, PDF01, Videos02/03, PDF02/03]\n\n\nLecture 13: Panel data III [Videos, Videos01, PDF01, Videos02, PDF02, Videos03, PDF03]\n\n\nLecture 14: Regression discontinuity I [Videos, PDF, Videos01, PDF01, Videos02, PDF02, Videos03, PDF03]\n\n\nLecture 15: Regression discontinuity II [Videos, PDF]\n\n\nLecture 16: Big data and machine learning [Videos, PDF]\n\n\nLecture 17: Policy lab I [PDF01, PDF02/03. No videos — was conducted live.]\n\n\nLecture 18: Policy lab II [PDF01, PDF02/03 No videos — was conducted live.]"
   },
   {
     "objectID": "teaching/ppha34600-2019.html",
