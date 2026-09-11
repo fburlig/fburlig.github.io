@@ -41,6 +41,12 @@ toc: false
 <div class="links"><a href="s/20260616_BS_PayingForPower.pdf">draft</a> · <a href="https://www.socialscienceregistry.org/trials/8742">rct registry</a></div>
 </div>
 
+<div class="paper">
+<span class="ptitle">The burden of flood risk</span><br>
+<span class="meta">with Jack Glaser and Anant Sudarshan · September 2026</span>
+<div class="links"><a href="s/20260911_BGS_floodrisk.pdf">draft</a></div>
+</div>
+
 ## publications
 
 <div class="paper">

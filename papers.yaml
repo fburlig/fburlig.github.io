@@ -58,6 +58,11 @@ working_papers:
   featured: true
   links:
     rct registry: https://www.socialscienceregistry.org/trials/8742
+- title: The burden of flood risk
+  authors: Jack Glaser and Anant Sudarshan
+  pdf: s/20260911_BGS_floodrisk.pdf
+  date: September 2026
+  featured: false
 publications:
 - title: 'The value of clean water: Experimental evidence from rural India'
   authors: Amir Jina and Anant Sudarshan
