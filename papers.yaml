@@ -57,6 +57,7 @@ publications:
   pdf: s/20260916_JPB_Blackouts_with_appx.pdf
   journal: 'Forthcoming, <em>American Economic Journal: Economic Policy</em>'
   links:
+    journal: https://www.aeaweb.org/articles?id=10.1257/pol.20250025&from=f
     nber: https://www.nber.org/papers/w29610
     summary: https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india
   featured: true
