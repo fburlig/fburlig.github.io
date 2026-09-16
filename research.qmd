@@ -12,12 +12,6 @@ toc: false
 </div>
 
 <div class="paper">
-<span class="ptitle">Blackouts: The role of India's wholesale electricity market</span><br>
-<span class="meta">with Akshaya Jha <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=kO-uBJ-nEo6x" title="randomized author order">(r)</a> Louis Preonas · February 2026<br>Conditionally accepted, <em>American Economic Journal: Economic Policy</em></span>
-<div class="links"><a href="s/20260222_JPB_Blackouts_withappx.pdf">draft</a> · <a href="https://www.nber.org/papers/w29610">nber</a> · <a href="https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india">summary</a> · <a href="coverage.html#blackouts-the-role-of-india-s-wholesale-">coverage</a></div>
-</div>
-
-<div class="paper">
 <span class="ptitle">Beliefs, forecasts, and investments: Experimental evidence from India</span><br>
 <span class="meta">with Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai · April 2026<br>Revise and resubmit, <em>American Economic Journal: Applied Economics</em></span>
 <div class="links"><a href="s/20260403_BJKLS_forecasts.pdf">draft</a> · <a href="https://www.nber.org/papers/w32173">nber</a> · <a href="https://www.socialscienceregistry.org/trials/8846">rct registry</a> · <a href="coverage.html#beliefs-forecasts-and-investments-experi">coverage</a></div>
@@ -48,6 +42,12 @@ toc: false
 </div>
 
 ## publications
+
+<div class="paper">
+<span class="ptitle">Blackouts: The role of India's wholesale electricity market</span><br>
+<span class="meta">with Akshaya Jha <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=kO-uBJ-nEo6x" title="randomized author order">(r)</a> Louis Preonas · Forthcoming, <em>American Economic Journal: Economic Policy</em></span>
+<div class="links"><a href="s/20260916_JPB_Blackouts_with_appx.pdf">paper</a> · <a href="https://www.nber.org/papers/w29610">nber</a> · <a href="https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india">summary</a> · <a href="coverage.html#blackouts-the-role-of-india-s-wholesale-">coverage</a></div>
+</div>
 
 <div class="paper">
 <span class="ptitle">The value of clean water: Experimental evidence from rural India</span><br>

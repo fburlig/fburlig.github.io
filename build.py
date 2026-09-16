@@ -41,7 +41,7 @@ for p in D["working_papers"]:
     out.append(entry(p, p["date"] + (f"<br>{p['status']}" if p.get("status") else ""), pdf_label="draft"))
 out.append("## publications\n")
 for p in D["publications"]:
-    out.append(entry(p, f"{p['journal']} · {p['year']}"))
+    out.append(entry(p, " · ".join(str(x) for x in [p.get("journal"), p.get("year")] if x)))
 out.append("## selected work in progress\n")
 for p in D["work_in_progress"]:
     out.append(entry(p, ""))

@@ -13,18 +13,6 @@ working_papers:
   - Forbes post: https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/
   - Barron's op-ed: https://www.barrons.com/articles/water-shortages-threaten-the-economy-and-our-food-supply-51633354333
   - Forecast Direct podcast: https://forecastdirect.podbean.com/e/groundwater-use-in-california-agriculture/
-- title: 'Blackouts: The role of India''s wholesale electricity market'
-  authors: Akshaya Jha <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=kO-uBJ-nEo6x" title="randomized author order">(r)</a> Louis Preonas
-  pdf: s/20260222_JPB_Blackouts_withappx.pdf
-  date: February 2026
-  status: 'Conditionally accepted, <em>American Economic Journal: Economic Policy</em>'
-  links:
-    nber: https://www.nber.org/papers/w29610
-    summary: https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india
-  featured: true
-  coverage:
-  - Ideas for India: https://www.ideasforindia.in/topics/governance/fixing-incentives-for-power-plants-to-reduce-outages.html
-  - VoxEU: https://voxeu.org/article/reducing-electricity-blackouts-developing-countries
 - title: 'Beliefs, forecasts, and investments: Experimental evidence from India'
   authors: Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai
   pdf: s/20260403_BJKLS_forecasts.pdf
@@ -64,6 +52,17 @@ working_papers:
   date: September 2026
   featured: false
 publications:
+- title: 'Blackouts: The role of India''s wholesale electricity market'
+  authors: Akshaya Jha <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=kO-uBJ-nEo6x" title="randomized author order">(r)</a> Louis Preonas
+  pdf: s/20260916_JPB_Blackouts_with_appx.pdf
+  journal: 'Forthcoming, <em>American Economic Journal: Economic Policy</em>'
+  links:
+    nber: https://www.nber.org/papers/w29610
+    summary: https://voxdev.org/topic/energy-environment/reducing-electricity-blackouts-developing-countries-evidence-india
+  featured: true
+  coverage:
+  - Ideas for India: https://www.ideasforindia.in/topics/governance/fixing-incentives-for-power-plants-to-reduce-outages.html
+  - VoxEU: https://voxeu.org/article/reducing-electricity-blackouts-developing-countries
 - title: 'The value of clean water: Experimental evidence from rural India'
   authors: Amir Jina and Anant Sudarshan
   pdf: s/BJS_IndiaWater_Published_with_appx.pdf

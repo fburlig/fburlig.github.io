@@ -10,14 +10,14 @@ toc: false
 <span class="links"><a href="https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/">Forbes post</a> · <a href="https://www.barrons.com/articles/water-shortages-threaten-the-economy-and-our-food-supply-51633354333">Barron's op-ed</a> · <a href="https://forecastdirect.podbean.com/e/groundwater-use-in-california-agriculture/">Forecast Direct podcast</a></span>
 </div>
 
-<div class="paper" id="blackouts-the-role-of-india-s-wholesale-">
-<span class="ptitle">Blackouts: The role of India's wholesale electricity market</span><br>
-<span class="links"><a href="https://www.ideasforindia.in/topics/governance/fixing-incentives-for-power-plants-to-reduce-outages.html">Ideas for India</a> · <a href="https://voxeu.org/article/reducing-electricity-blackouts-developing-countries">VoxEU</a></span>
-</div>
-
 <div class="paper" id="beliefs-forecasts-and-investments-experi">
 <span class="ptitle">Beliefs, forecasts, and investments: Experimental evidence from India</span><br>
 <span class="links"><a href="https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh">Media coverage</a></span>
+</div>
+
+<div class="paper" id="blackouts-the-role-of-india-s-wholesale-">
+<span class="ptitle">Blackouts: The role of India's wholesale electricity market</span><br>
+<span class="links"><a href="https://www.ideasforindia.in/topics/governance/fixing-incentives-for-power-plants-to-reduce-outages.html">Ideas for India</a> · <a href="https://voxeu.org/article/reducing-electricity-blackouts-developing-countries">VoxEU</a></span>
 </div>
 
 <div class="paper" id="the-value-of-clean-water-experimental-ev">
