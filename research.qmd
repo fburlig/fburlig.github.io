@@ -38,7 +38,7 @@ toc: false
 <div class="paper">
 <span class="ptitle">The burden of flood risk</span><br>
 <span class="meta">with Jack Glaser and Anant Sudarshan · September 2026</span>
-<div class="links"><a href="papers/BGS_floods.pdf">draft</a></div>
+<div class="links"><a href="papers/BGS_flood_risk.pdf">draft</a></div>
 </div>
 
 ## publications
