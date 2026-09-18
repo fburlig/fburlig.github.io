@@ -13,7 +13,7 @@ working_papers:
   - Forbes post: https://www.forbes.com/sites/ucenergy/2019/07/30/amid-climate-linked-drought-farmers-turn-to-new-water-sources-those-are-drying-up-too/
   - Barron's op-ed: https://www.barrons.com/articles/water-shortages-threaten-the-economy-and-our-food-supply-51633354333
   - Forecast Direct podcast: https://forecastdirect.podbean.com/e/groundwater-use-in-california-agriculture/
-  stable: groundwater-crop-choice
+  stable: BPW_groundwater
 - title: 'Beliefs, forecasts, and investments: Experimental evidence from India'
   authors: Amir Jina, Erin Kelley, Gregory Lane, and Harshil Sahai
   pdf: s/20260403_BJKLS_forecasts.pdf
@@ -25,7 +25,7 @@ working_papers:
     rct registry: https://www.socialscienceregistry.org/trials/8846
   coverage:
   - Media coverage: https://wakelet.com/wake/qFldzs7hMuO-4EhCZLKkh
-  stable: forecasts
+  stable: BJKLS_forecasts
 - title: 'If you build it, they may not come: Willingness to participate in managed EV charging'
   authors: James Bushnell and David Rapson
   pdf: s/20260409_BBR_mangedcharging.pdf
@@ -34,7 +34,7 @@ working_papers:
     nber: https://www.nber.org/papers/w35086
     rct registry: https://www.socialscienceregistry.org/trials/14013
     summary: https://climate.uchicago.edu/insights/if-you-build-it-they-may-not-come-willingness-to-participate-in-managed-ev-charging/
-  stable: managed-charging
+  stable: BBR_managedcharging
 - title: 'Insurance and the demand for adaptation: Theory and experimental evidence from West Bengal'
   authors: Manzoor Dar, Xavier Giné, Erin Kelley, and Gregory Lane
   pdf: s/20260610_BDGKL_InsureAdapt.pdf
@@ -42,7 +42,7 @@ working_papers:
   featured: true
   links:
     rct registry: https://www.socialscienceregistry.org/trials/13781
-  stable: insurance-adaptation
+  stable: BDGKL_insurance
 - title: Paying for power
   authors: Anant Sudarshan
   pdf: s/20260616_BS_PayingForPower.pdf
@@ -50,13 +50,13 @@ working_papers:
   featured: true
   links:
     rct registry: https://www.socialscienceregistry.org/trials/8742
-  stable: paying-for-power
+  stable: BS_payingforpower
 - title: The burden of flood risk
   authors: Jack Glaser and Anant Sudarshan
   pdf: s/20260918_BGS_floods.pdf
   date: September 2026
   featured: false
-  stable: floods
+  stable: BGS_floods
 publications:
 - title: 'Blackouts: The role of India''s wholesale electricity market'
   authors: Akshaya Jha <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=kO-uBJ-nEo6x" title="randomized author order">(r)</a> Louis Preonas
