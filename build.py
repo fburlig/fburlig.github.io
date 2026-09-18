@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Render research.qmd and _featured.md from papers.yaml. Run: python3 build.py, commit, push (GitHub Actions renders)."""
-import yaml
+import yaml, os, shutil
 
 D = yaml.safe_load(open("papers.yaml"))
 CURRENT = [  # homepage "current research", in order; title prefixes from papers.yaml
@@ -19,6 +19,15 @@ import re
 def slug(p):
     return re.sub(r"[^a-z0-9]+", "-", p["title"].lower()).strip("-")[:40]
 
+def pdf_url(p):
+    """Stable link for working papers: papers/<stable>.pdf, refreshed from the dated file in s/."""
+    if p.get("stable"):
+        dst = f"papers/{p['stable']}.pdf"
+        os.makedirs("papers", exist_ok=True)
+        shutil.copyfile(p["pdf"], dst)
+        return dst
+    return p.get("pdf")
+
 def authors(p):
     a = f"with {p['authors']}" if p.get("authors") else ""
     if p.get("note"): a += "<sup>†</sup>"
@@ -26,7 +35,7 @@ def authors(p):
 
 def links(p, pdf_label="paper"):
     L = []
-    if p.get("pdf"): L.append(f'<a href="{p["pdf"]}">{pdf_label}</a>')
+    if p.get("pdf"): L.append(f'<a href="{pdf_url(p)}">{pdf_label}</a>')
     for k in LINK_ORDER:
         if k in (p.get("links") or {}): L.append(f'<a href="{p["links"][k]}">{k}</a>')
     if p.get("coverage"): L.append(f'<a href="coverage.html#{slug(p)}">coverage</a>')
@@ -64,7 +73,7 @@ def feat(pre):
     p = next(p for p in allp if p["title"].startswith(pre))
     st = p.get("status") or (p["journal"].split(",")[0] if p.get("journal") else "")
     st = st.replace("Revise and resubmit", "R&amp;R")
-    t = f'<a href="{p["pdf"]}">{p["title"]}</a>' if p.get("pdf") else p["title"]
+    t = f'<a href="{pdf_url(p)}">{p["title"]}</a>' if p.get("pdf") else p["title"]
     rows = [f'<span class="ftitle">{t}</span>']
     if p.get("authors"): rows.append(f'<span class="meta">{authors(p)}</span>')
     if st: rows.append(f'<span class="meta">{st}</span>')

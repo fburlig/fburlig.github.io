@@ -5,6 +5,7 @@ Quarto site, rendered by GitHub Actions on every push to `main` and published fr
 ## Editing
 - **Papers:** edit `papers.yaml`, then run `python3 build.py` (needs `pip install pyyaml`). This regenerates `research.qmd` and `_featured.md` (the homepage list). Set `featured: true` to show a paper on the homepage; homepage order is `FEATURED_ORDER` in `build.py`.
 - **Homepage text / teaching / nav / footer:** edit `index.qmd`, `teaching.qmd`, `teaching/*.qmd`, or `_quarto.yml` (navbar).
+- **New working-paper version:** drop the dated PDF into `s/`, point the paper's `pdf:` field in `papers.yaml` at it, run `python3 build.py`. The stable link `papers/<stable>.pdf` (what the site and CV use) is refreshed automatically; old dated versions stay in `s/`.
 - **PDFs:** drop into `s/` (same path scheme as the old Squarespace site, so old links keep working).
 - **CV:** replace `cv.pdf`.
 - **Style:** `style.css`.
