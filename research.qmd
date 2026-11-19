@@ -31,7 +31,7 @@ toc: false
 
 <div class="paper">
 <span class="ptitle">Paying for power</span><br>
-<span class="meta">with Anant Sudarshan · June 2026</span>
+<span class="meta">with Anant Sudarshan · November 2026</span>
 <div class="links"><a href="papers/BS_payingforpower.pdf">draft</a> · <a href="https://www.socialscienceregistry.org/trials/8742">rct registry</a></div>
 </div>
 
